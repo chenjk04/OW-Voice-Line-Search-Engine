@@ -1,0 +1,5 @@
+.venv/
+dev notes.txt
+__pycache__/
+backend/__pycache__/
+

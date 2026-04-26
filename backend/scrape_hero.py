@@ -11,61 +11,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import hashlib
 import json
 
-ID_COUNTER = 0
-
-HERO_LIST = [
-    "Ana",
-    "Anran",
-    "Ashe",
-    "Baptiste",
-    "Bastion",
-    "Brigitte",
-    "Cassidy",
-    "D.Va",
-    "Domina",
-    "Doomfist",
-    "Echo",
-    "Emre",
-    "Freja",
-    "Genji",
-    "Hanzo",
-    "Hazard",
-    "Illari",
-    "Jetpack Cat",
-    "Junker Queen",
-    "Junkrat",
-    "Juno",
-    "Kiriko",
-    "Lifeweaver",
-    "Lúcio",
-    "Mauga",
-    "Mei",
-    "Mercy",
-    "Mizuki",
-    "Moira",
-    "Orisa",
-    "Pharah",
-    "Ramattra",
-    "Reaper",
-    "Reinhardt",
-    "Roadhog",
-    "Sierra",
-    "Sigma",
-    "Sojourn",
-    "Soldier: 76",
-    "Sombra",
-    "Symmetra",
-    "Torbjörn",
-    "Tracer",
-    "Venture",
-    "Vendetta",
-    "Widowmaker",
-    "Winston",
-    "Wrecking Ball",
-    "Wuyang",
-    "Zarya",
-    "Zenyatta"
-]
+from hero_list import HERO_LIST, safe_name
 
 
 def load_html(hero_name):
@@ -88,12 +34,15 @@ def locate_rows(hero_name, soup):
         print(f"{hero_name}: table not found")
         return
     rows = table.find_all("tr")
+    if not rows:
+        print(f"{hero_name}: no rows")
+        return
     return rows
 
 
 def parse_table(hero_name, rows):
     output = []
-    id_counter = 0;
+    id_counter = 0
     for row in rows:
         tds = row.find_all("td")
 
@@ -121,7 +70,7 @@ def parse_table(hero_name, rows):
 
 
 def output_json(hero_name, output):
-    output_file = f"backend/data/voicelines_json/{hero_name}_quotes.json"
+    output_file = f"backend/data/voicelines_json/{safe_name(hero_name)}_quotes.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     return

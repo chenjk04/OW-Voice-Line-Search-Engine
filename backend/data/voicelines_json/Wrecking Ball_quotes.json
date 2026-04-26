@@ -1,0 +1,230 @@
+[
+  {
+    "hero": "Wrecking Ball",
+    "ID": "59fdbb3a0c552b027ccd96245fd1e966",
+    "line": "Shut down.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b9/Wrecking_Ball_-_Shut_down.ogg/revision/latest?cb=20230915030945"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "365a4cc6337e5f6bfcd110d9ac6b46ec",
+    "line": "Beware of small mammals.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Wrecking_Ball_-_Beware_of_small_mammals.ogg/revision/latest?cb=20230915030351"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "7c3f6447f8eed3dfe2baf22e2378959c",
+    "line": "Do not disturb.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Wrecking_Ball_-_Do_not_disturb.ogg/revision/latest?cb=20230915030436"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "f93ea7ddf774582c9c0efb528c7e5f5a",
+    "line": "Frustration detected.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/01/Wrecking_Ball_-_Frustration_detected.ogg/revision/latest?cb=20230915030558"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "32e8b788f39c9a5f3bb7496484e5bbdd",
+    "line": "He says, he's sorry.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/Wrecking_Ball_-_He_says_he%27s_sorry.ogg/revision/latest?cb=20230915030638"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "4cc715bd6053464b5fb80ac87ef957a1",
+    "line": "No hard feelings.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Wrecking_Ball_-_No_hard_feelings.ogg/revision/latest?cb=20230915030817"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "4a9b0ab4c22a09acaf2280be539ecb65",
+    "line": "Odds of success increasing.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Wrecking_Ball_-_Odds_of_success_increasing.ogg/revision/latest?cb=20230915030830"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "b8954c743517ca0cfa7297496b91bf26",
+    "line": "Error. Profanity filter enabled.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/Wrecking_Ball_-_Error._Profanity_filter_enabled.ogg/revision/latest?cb=20230915030536"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "ab7f48035716ece564020ecbb254b72a",
+    "line": "Relief detected.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Wrecking_Ball_-_Relief_detected.ogg/revision/latest?cb=20230915030919"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "79bb2a16d6234f250d2c95e971a68a68",
+    "line": "This is happening.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/Wrecking_Ball_-_This_is_happening.ogg/revision/latest?cb=20230915031118"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "c3c79be8d828b55272f2dcb67de60223",
+    "line": "Vocabulary not found. Translation impossible.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a6/Wrecking_Ball_-_Vocabulary_not_found._Translation_impossible.ogg/revision/latest?cb=20230915031147"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "c4feb30ddee8948579c61174ab12894c",
+    "line": "What he said.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Wrecking_Ball_-_What_he_said.ogg/revision/latest?cb=20230915031212"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "36138d0e34abd2e79060d26820a431f4",
+    "line": "Be the ball.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Wrecking_Ball_-_Be_the_ball.ogg/revision/latest?cb=20230915030345"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "31f7c35faa025e730f1d3729f8f569e1",
+    "line": "Keep your eye on the ball.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Wrecking_Ball_-_Keep_your_eye_on_the_ball.ogg/revision/latest?cb=20230915030735"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "38dc3f2d992b92fe8e090916801bb04c",
+    "line": "More power!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d8/Wrecking_Ball_-_More_power.ogg/revision/latest?cb=20230915030801"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "0dee26f90021fb827bbf3d24862c801b",
+    "line": "Heart rate increasing.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Wrecking_Ball_-_Heart_rate_increasing.ogg/revision/latest?cb=20230915030702"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "6af79b71fec6cb3c053d6d38dfb1c833",
+    "line": "Trick or treat.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Wrecking_Ball_-_Trick_or_treat.ogg/revision/latest?cb=20230915031129"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "965b3811bac262a48e5b6e6bc84bff44",
+    "line": "Deck the Halls with me.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2d/Wrecking_Ball_-_Deck_the_halls_with_me.ogg/revision/latest?cb=20230915030424"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "0765f3fa9b2291617d239f9370db6f72",
+    "line": "Ho. Ho. Ho.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Wrecking_Ball_-_Ho._Ho._Ho.ogg/revision/latest?cb=20230915030711"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "10f19bc50438d74d9998377baa4371ad",
+    "line": "*Hammond sings \"Deck the Halls\"*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Wrecking_Ball_-_%28Hammond_sings_%22Deck_the_Halls%22%29.ogg/revision/latest?cb=20240124213804"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "308de4573adeab01d2b9a05e7f3c71c0",
+    "line": "\"Assessing luck\" plays one of the following at random: Assessing luck: small fortune. Assessing luck: medium fortune. Assessing luck: great fortune. Assessing luck: small misfortune. Assessing luck: medium misfortune. Assessing luck: great misfortune. Assessing luck: success in academics. Assessing luck: good time for romance. Assessing luck: financial outlook strong. Assessing luck: be careful crossing the street.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Wrecking_Ball_-_Assessing_luck%2C_small_fortune.ogg/revision/latest?cb=20230915030329"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "20cb7c1d6f975d87699197f2380b2a3f",
+    "line": "Engaging festive mode. *festive music plays*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/Wrecking_Ball_-_Engaging_festive_mode.ogg/revision/latest?cb=20230915030530"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "adfb4862b4dc90a22feeb4d864a9f4cd",
+    "line": "Too early for flapjacks?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Wrecking_Ball_-_Too_early_for_flapjacks.ogg/revision/latest?cb=20230915031122"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "9e9a80a98317a6e5e022eab96a70edb6",
+    "line": "Access denied.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Wrecking_Ball_-_Access_denied.ogg/revision/latest?cb=20230915030240"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "3922a31a0128873bff4f2ffb1b6360ef",
+    "line": "Ha ha. Laughter.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Wrecking_Ball_-_Ha_ha._Laughter.ogg/revision/latest?cb=20230915030613"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "ba53115ee7febe46088f72cd89ca5003",
+    "line": "K.O.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/aa/Wrecking_Ball_-_K.O.ogg/revision/latest?cb=20230915030734"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "831cb1d047877078b49909e7c762f9e2",
+    "line": "Translation not found.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Wrecking_Ball_-_Translation_not_found.ogg/revision/latest?cb=20230915031128"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "56275ac6e34fa8defd27793f2e4fd303",
+    "line": "Amusement.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Wrecking_Ball_-_Amusement.ogg/revision/latest?cb=20230915030302"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "3a621b2109de4071c453df412c251a18",
+    "line": "Encouragement module not found.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Wrecking_Ball_-_Encouragement_module_not_found.ogg/revision/latest?cb=20230915030457"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "b19956b8b3f6dcd4716e3608d58f1059",
+    "line": "Rolled.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/Wrecking_Ball_-_Rolled.ogg/revision/latest?cb=20230915030930"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "8333f207621ee027e8f226ec3861bcee",
+    "line": "Self assessment: lonely rolling ball.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f4/Wrecking_Ball_-_Self_assessment%2C_lonely_rolling_ball.ogg/revision/latest?cb=20230915030939"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "c7c30a4c6ac069de64e70e21f66dd83c",
+    "line": "V-v-victory for the small mammal!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7b/Wrecking_Ball_-_V-v-victory_for_the_small_mammal.ogg/revision/latest?cb=20230915031145"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "329ce4fc26f55a68854a4b3ebe36e33c",
+    "line": "Do not tell the mammal how high he can go.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Wrecking_Ball_-_Do_not_tell_the_mammal_how_high_he_can_go.ogg/revision/latest?cb=20230915030442"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "b4c626dca6eb1c019c5363ac4f5e18d1",
+    "line": "The hamster smells your fear .",
+    "audio_url": null
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "cdfe5bd1e787c39a25b60dcaa797b2a3",
+    "line": "He will not be caged again.",
+    "audio_url": null
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "589e88ce75cfcb5b9fce7ce968cdaf0d",
+    "line": "Game over.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Wrecking_Ball_-_Game_over.ogg/revision/latest?cb=20250629082213"
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "39b28dea8aada85344bcf9504cd3a2fd",
+    "line": "Cannonball!",
+    "audio_url": null
+  },
+  {
+    "hero": "Wrecking Ball",
+    "ID": "8085623db5d7d8ea4f2a8eb860a5506d",
+    "line": "Under the sea, under my tyranny. (Crustacean Wrecking Ball Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Wrecking_Ball_-_Under_the_sea._Under_my_tyranny.ogg/revision/latest?cb=20230915031138"
+  }
+]

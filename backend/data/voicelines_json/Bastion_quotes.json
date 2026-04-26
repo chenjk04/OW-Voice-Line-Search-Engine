@@ -1,0 +1,170 @@
+[
+  {
+    "hero": "Bastion",
+    "ID": "e05b49ce5d2ce4f7ba12aaa50862475f",
+    "line": "Doo-woo! (fun beep)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Bastion_-_%28fun_beeps%29.ogg/revision/latest?cb=20230913125729"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "9b20e68f6454c9b647285c9cfb3390fa",
+    "line": "Beepleleleh. (cute beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Bastion_-_%28cute_beeps%29.ogg/revision/latest?cb=20230913125616"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "fa923e5e717c97c57fcdcc0af9efcd6d",
+    "line": "Boo boo doo de doo. (beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/13/Bastion_-_%28beeps%29.ogg/revision/latest?cb=20230913125520"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "eac61244383ec9792b5836ab5cf8152a",
+    "line": "Bweeeeeeeeeeoh. (long beep)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Bastion_-_%28long_beeps%29.ogg/revision/latest?cb=20230913125823"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "db53eaaddaa0c9a9c1141e946ef677d3",
+    "line": "Bwoo chirr chirr chirr chirr chirr chirr chirr! (churring beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Bastion_-_%28churring_beeps%29.ogg/revision/latest?cb=20230913125542"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "30054d4fd6adca06d844a40dfe626f54",
+    "line": "Dah-dah weeeee! (trumpeting beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Bastion_-_%28trumpeting_beeps%29.ogg/revision/latest?cb=20230913130046"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "c8f314f300c78c46c59a10be34e8604e",
+    "line": "Dun dun boop boop-boop boop bwooooooooooom. (silly beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/29/Bastion_-_%28silly_beeps%29.ogg/revision/latest?cb=20230913130000"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "255012ef1dcf3f1dfd2429380668acf1",
+    "line": "Dweet! Dweet! Dweet! (alarmed beeps)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "e7e9619e0bd4ed98a77869d6e24a0918",
+    "line": "Hee hoo hoo hoo-wee, hee hee hoo hoo hoo-wee. (taunting beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Bastion_-_%28taunting_beeps%29.ogg/revision/latest?cb=20230913130019"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "48d402baa543afe5c2c2ee6d50cca2cd",
+    "line": "Sh-sh-sh dwee! (hushing beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Bastion_-_%28hushing_beeps%29.ogg/revision/latest?cb=20230913125749"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "5955d78bc2655400709b7b8e94647207",
+    "line": "Zwee? (curious beep)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "45d88db23a3c1a062060951df6f45fb7",
+    "line": "Whoo-vweeeeee heheheh. (excited beeps)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "ca761711d850e665e160331b272e2f99",
+    "line": "Doo-do-doo dee! (fanfare beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/44/Bastion_-_%28fanfare_beeps%29.ogg/revision/latest?cb=20230913125719"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "cc3b4665fff2d58a391ff149c23dbecd",
+    "line": "W-w-wooooo...? (scared beeps)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "27cbc0da7eb7a9f5d4b97675e789f9de",
+    "line": "Oooooooooooo... (trilling beeps)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "cef426be1e75c0b7aa9bbf42a6fd210c",
+    "line": "Dwee doo hoo. (beeps \"Deck the Halls\")",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "53818770f5e067349b450eae3e220df7",
+    "line": "Bwoo bwoo bwoo. (beeps \"Jingle Bells\")",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "acfe029e078e261da134d3d2cfdb3ed8",
+    "line": "Woop doo woo dun woop dun doo. (idle humming)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "fcc06c841e5a060e5785e2c8a2e6d1a6",
+    "line": "Doo wee doo wee woo! (celebrating beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Bastion_-_%28celebrating_beeps%29.ogg/revision/latest?cb=20230913125530"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "2c5c574b4332912576f474b7a9ff964d",
+    "line": "Dwee wee woh. (tweeting beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Bastion_-_%28tweeting_beeps%29.ogg/revision/latest?cb=20230913130047"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "f421769ceaa83c62bd70827b4e4f9fa5",
+    "line": "Zwee-ah weee doo woo. (trilling beeps)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "ba0356c8d813f0f1fbf0a622e43c4d2b",
+    "line": "Zwing zwing zwing. (intense, high-pitched beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Bastion_-_%28intense%2C_high-pitched_beeps%29.ogg/revision/latest?cb=20230913125809"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "2050f8c1033c645d7b8c98744bee2336",
+    "line": "Bew-woo bew-woo. (enthusiastic beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Bastion_-_%28enthusiastic_beeps%29.ogg/revision/latest?cb=20230913125700"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "11957dadb194c30aa46edab2bf3c8aa9",
+    "line": "Doo dun dun woo, doo dun wooo. (beeps the Overwatch theme)",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "7472cc7d817544d2ceb0d27a02911bd3",
+    "line": "Zur zur ee num. (chanting \"exterminate\")",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Bastion_-_%28chanting_beeps%29.ogg/revision/latest?cb=20230913125533"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "f1465f0a88ed7d8e352f6e111e8a6674",
+    "line": "Eeeeee boop. (level failed beeps)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/Bastion_-_%28level_failed_beeps%29.ogg/revision/latest?cb=20230913125822"
+  },
+  {
+    "hero": "Bastion",
+    "ID": "06e34a7f4659a26019dbf2fa9486ee30",
+    "line": "Buubuubuubuu,",
+    "audio_url": null
+  },
+  {
+    "hero": "Bastion",
+    "ID": "5fc064d683b615e470998a324133b7a8",
+    "line": "Bwee bwoo-bwoo-bwoo. (surprised and amused beeps)",
+    "audio_url": null
+  }
+]

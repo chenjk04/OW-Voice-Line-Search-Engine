@@ -1,241 +1,241 @@
 [
   {
     "hero": "D.Va",
-    "ID": 0,
+    "ID": "8b2a41549dea41b48d35828f9823617f",
     "line": "Love, D.Va.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/D.Va_-_Love%2C_D.Va.ogg/revision/latest?cb=20230913152302"
   },
   {
     "hero": "D.Va",
-    "ID": 1,
+    "ID": "9ce8fa701f7ac994a7f5444343f31ed9",
     "line": "[sigh] AFK.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/D.Va_-_AFK.ogg/revision/latest?cb=20230913151658"
   },
   {
     "hero": "D.Va",
-    "ID": 2,
+    "ID": "e621c997cea4ce7fe02d6c2e16c62f98",
     "line": "Aw, yeah!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/D.Va_-_Aw%2C_yeah_%282%29.ogg/revision/latest?cb=20230913151728"
   },
   {
     "hero": "D.Va",
-    "ID": 3,
+    "ID": "80fc7f6d915769e2f50b7708e7db036f",
     "line": "D.Va one, bad guys zero.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/D.Va_-_D.Va_1%2C_bad_guys_0.ogg/revision/latest?cb=20230913151823"
   },
   {
     "hero": "D.Va",
-    "ID": 4,
+    "ID": "3c237eb953c4dc295757d3d1e93f3371",
     "line": "GG!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/38/D.Va_-_GG.ogg/revision/latest?cb=20230913152004"
   },
   {
     "hero": "D.Va",
-    "ID": 5,
+    "ID": "a92afe0846ef4919dbf463703d9e6c8e",
     "line": "Here comes a new challenger!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/D.Va_-_Here_comes_a_new_challenger.ogg/revision/latest?cb=20230913152026"
   },
   {
     "hero": "D.Va",
-    "ID": 6,
-    "line": "Geim-eul hamyeon, igyeoyaji. Hangul: 게임을 하면, 이겨야지. English: (Literal) When you play a game, you should win! I play to win!",
+    "ID": "19fceaa9898149d7306f1bccc59080e8",
+    "line": "Expand Geim-eul hamyeon, igyeoyaji. Hangul: 게임을 하면, 이겨야지. English: (Literal) When you play a game, you should win! I play to win!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/D.Va_-_%28Korean%29_I_play_to_win.ogg/revision/latest?cb=20230913151555"
   },
   {
     "hero": "D.Va",
-    "ID": 7,
+    "ID": "d8a3fb44f013f073f49764492c3ced4e",
     "line": "Is this easy mode?",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/D.Va_-_Is_this_easy_mode.ogg/revision/latest?cb=20230913152214"
   },
   {
     "hero": "D.Va",
-    "ID": 8,
+    "ID": "790ecd69ece2b2637eb7b5627a2075e2",
     "line": "LOL.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/D.Va_-_LOL.ogg/revision/latest?cb=20230913152253"
   },
   {
     "hero": "D.Va",
-    "ID": 9,
+    "ID": "59328f5f0fbc052de2683e060be92a9e",
     "line": "No hacks required.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c7/D.Va_-_No_hacks_required.ogg/revision/latest?cb=20230913152342"
   },
   {
     "hero": "D.Va",
-    "ID": 10,
+    "ID": "6df2194b235ee867b4f11873cb8539a0",
     "line": "Winkyface.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/30/D.Va_-_Winky_face.ogg/revision/latest?cb=20230913152904"
   },
   {
     "hero": "D.Va",
-    "ID": 11,
+    "ID": "b8b162b69bf37d8b8b7a086d77418249",
     "line": "Nice try.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/D.Va_-_Nice_try.ogg/revision/latest?cb=20230913152341"
   },
   {
     "hero": "D.Va",
-    "ID": 12,
+    "ID": "8d9680393abd989549be09e367514254",
     "line": "I'm #1!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/D.Va_-_I%27m_number_one.ogg/revision/latest?cb=20230913152149"
   },
   {
     "hero": "D.Va",
-    "ID": 13,
+    "ID": "e7f46708e4b3c76b4961eb993a32b345",
     "line": "Scoreboard.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/D.Va_-_Scoreboard.ogg/revision/latest?cb=20230913152516"
   },
   {
     "hero": "D.Va",
-    "ID": 14,
+    "ID": "31cddd08e19eb7eef8a4facb2e126f1f",
     "line": "Hmph! You can't be serious!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/D.Va_-_You_can%27t_be_serious.ogg/revision/latest?cb=20230913152923"
   },
   {
     "hero": "D.Va",
-    "ID": 15,
+    "ID": "c1c71cb2cd748fa2430809d0f679978b",
     "line": "I'll see you at the finish line.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/D.Va_-_I%27ll_see_you_at_the_finish_line.ogg/revision/latest?cb=20230913152132"
   },
   {
     "hero": "D.Va",
-    "ID": 16,
-    "line": "Haepi hallowin! Hangul: 해피 할로윈! English: Happy Halloween!",
+    "ID": "4ce1e8134ac3557459c7f151c575245f",
+    "line": "Expand Haepi hallowin! Hangul: 해피 할로윈! English: Happy Halloween!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/D.Va_-_%28Korean%29_Happy_Halloween.ogg/revision/latest?cb=20230913151546"
   },
   {
     "hero": "D.Va",
-    "ID": 17,
+    "ID": "7f1d28367ab7e80ce62fa9669ab3b6eb",
     "line": "I'm not scared.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/D.Va_-_I%27m_not_scared.ogg/revision/latest?cb=20230913152148"
   },
   {
     "hero": "D.Va",
-    "ID": 18,
+    "ID": "2d5265aaa9f1d73bd1dc6e620eb2076a",
     "line": "Aw, you shouldn't have.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/D.Va_-_Aw%2C_you_shouldn%27t_have.ogg/revision/latest?cb=20230913151730"
   },
   {
     "hero": "D.Va",
-    "ID": 19,
-    "line": "Jeulgeoun yeonhyu doeseyo! Hangul: 즐거운 연휴 되세요! English: Have a merry Holiday!",
+    "ID": "dd8982ba754fea9f2fc51a888fdb038e",
+    "line": "Expand Jeulgeoun yeonhyu doeseyo! Hangul: 즐거운 연휴 되세요! English: Have a merry Holiday!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/D.Va_-_%28Korean%29_Happy_holidays.ogg/revision/latest?cb=20230913151547"
   },
   {
     "hero": "D.Va",
-    "ID": 20,
+    "ID": "12c918694d7d068f7eca0da77d7b9db0",
     "line": "Perfect weather for a hotteok.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/D.Va_-_Perfect_weather_for_a_hotteok.ogg/revision/latest?cb=20230913152443"
   },
   {
     "hero": "D.Va",
-    "ID": 21,
+    "ID": "b415a0ff5e4c7724495166c799758526",
     "line": "The best things in life come in small packages.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/D.Va_-_The_best_things_in_life_come_in_small_packages.ogg/revision/latest?cb=20230913152633"
   },
   {
     "hero": "D.Va",
-    "ID": 22,
-    "line": "Saehae bok manhi badeuseyo. Hangul: 새해 복 많이 받으세요. English: Happy New Year./Receive lots of luck in the new year.",
+    "ID": "6eaef0b2b70ce6964c24826a8a337ec3",
+    "line": "Expand Saehae bok manhi badeuseyo. Hangul: 새해 복 많이 받으세요. English: Happy New Year./Receive lots of luck in the new year.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/69/D.Va_-_%28Korean%29_Happy_New_Year.ogg/revision/latest?cb=20230913151548"
   },
   {
     "hero": "D.Va",
-    "ID": 23,
+    "ID": "d2a03d69ad02fb2bff2c1718d739e223",
     "line": "I get the feeling you're not taking me seriously...",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/D.Va_-_I_get_the_feeling_you%27re_not_taking_me_seriously.ogg/revision/latest?cb=20230913152107"
   },
   {
     "hero": "D.Va",
-    "ID": 24,
+    "ID": "25bf75c4be020f965e10a2a09f624858",
     "line": "Try and keep up!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/D.Va_-_Try_and_keep_up.ogg/revision/latest?cb=20230913152750"
   },
   {
     "hero": "D.Va",
-    "ID": 25,
-    "line": "Ooh, jjangi-da! Hangul: 우, 짱이다! English: Ooh, I love it!",
+    "ID": "7ffb7005886aa546620fbb0a546569ef",
+    "line": "Expand Ooh, jjangi-da! Hangul: 우, 짱이다! English: Ooh, I love it!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/D.Va_-_%28Korean%29_Oh%2C_I_love_it.ogg/revision/latest?cb=20230913151612"
   },
   {
     "hero": "D.Va",
-    "ID": 26,
+    "ID": "0c0dbff6f8fce6cbe14e0a9e667ff4d7",
     "line": "I'm a professional.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/D.Va_-_I%27m_a_professional.ogg/revision/latest?cb=20230913152135"
   },
   {
     "hero": "D.Va",
-    "ID": 27,
+    "ID": "f502ed860d2bc4a3ad95f4a09059d761",
     "line": "Level up!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/D.Va_-_Level_up.ogg/revision/latest?cb=20230913152252"
   },
   {
     "hero": "D.Va",
-    "ID": 28,
+    "ID": "88b021e41d52298c234668396788516b",
     "line": "Ugh. no way.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/D.Va_-_Ugh._No_way.ogg/revision/latest?cb=20230913152754"
   },
   {
     "hero": "D.Va",
-    "ID": 29,
+    "ID": "5211d897c8ac01515b218149386a3e88",
     "line": "No problem!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5c/D.Va_-_No_problem_%281%29.ogg/revision/latest?cb=20230913152346"
   },
   {
     "hero": "D.Va",
-    "ID": 30,
+    "ID": "e08d8129f20aa369ad0e910213790f75",
     "line": "I know my KDR.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/D.Va_-_I_know_my_KDR.ogg/revision/latest?cb=20230913152117"
   },
   {
     "hero": "D.Va",
-    "ID": 31,
+    "ID": "9dba75afe34d092d92aff99e09839b8d",
     "line": "Yeah...",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/D.Va_-_Yeah_%282%29.ogg/revision/latest?cb=20230913152915"
   },
   {
     "hero": "D.Va",
-    "ID": 32,
+    "ID": "e9291f231b6d562bd49b01c1c2aba678",
     "line": "Diagnostics complete. All systems go.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/D.Va_-_Diagnostics_complete._All_systems_go.ogg/revision/latest?cb=20230913151839"
   },
   {
     "hero": "D.Va",
-    "ID": 33,
+    "ID": "d823622a58efd8901a3f352d071c27e9",
     "line": "Want to hear something scary? *whispers* Easy mode.",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/D.Va_-_Want_to_hear_something_scary_%28whispers%29_Easy_mode.ogg/revision/latest?cb=20240411194658"
   },
   {
     "hero": "D.Va",
-    "ID": 34,
+    "ID": "624fbf789035b15b82d6e3f37f7fd1bd",
     "line": "Don't be creepy!",
     "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/D.Va_-_Don%27t_be_creepy.ogg/revision/latest?cb=20241214073417"
   },
   {
     "hero": "D.Va",
-    "ID": 35,
+    "ID": "66458ca064d2b9b894620ba5aa8df53d",
     "line": "Winnable winnable winnable!",
     "audio_url": null
   },
   {
     "hero": "D.Va",
-    "ID": 36,
+    "ID": "3c9661e06ac1a7a83a0ce59671b69717",
     "line": "Ever heard the rabbit in the moon?",
     "audio_url": null
   },
   {
     "hero": "D.Va",
-    "ID": 37,
+    "ID": "3e61e2e8396b5ab8e15a7bb6444e35d4",
     "line": "I will go fullspeed, nonstop!",
     "audio_url": null
   },
   {
     "hero": "D.Va",
-    "ID": 38,
+    "ID": "05ce2de50252c176a8ce88f772a8080c",
     "line": "Charge, Johanna! (Queen D.Va Bundle)",
     "audio_url": null
   },
   {
     "hero": "D.Va",
-    "ID": 39,
+    "ID": "aac101fc7fe9d66305dc452d06809fcf",
     "line": "Fist! Of! Justiiiiice! (Queen D.Va Bundle)",
     "audio_url": null
   }

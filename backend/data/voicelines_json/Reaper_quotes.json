@@ -1,0 +1,314 @@
+[
+  {
+    "hero": "Reaper",
+    "ID": "734f854b8d08cc80107463a85805a1e0",
+    "line": "What are you looking at?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b7/Reaper_-_What_are_you_looking_at.ogg/revision/latest?cb=20230914133639"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "cfe481461ed5969d74ef12d3535587f4",
+    "line": "Any last words?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bc/Reaper_-_Any_last_words.ogg/revision/latest?cb=20230914132229"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "e149cac5d5a2b3034ff5e8ff1e8b6843",
+    "line": "Dead man walking.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Reaper_-_Dead_man_walking.ogg/revision/latest?cb=20230914132328"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "b961f76cdca206a753685bde7b46959b",
+    "line": "Give me a break.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Reaper_-_Give_me_a_break.ogg/revision/latest?cb=20230914132553"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "e875eaa0947034c06fa0ea25a7d7ae0b",
+    "line": "Haven't I killed you somewhere before?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Reaper_-_Haven%27t_I_killed_you_somewhere_before.ogg/revision/latest?cb=20230914132627"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "831e1b218355312246aeafe1437e3230",
+    "line": "Hm, too easy.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/91/Reaper_-_Hm._too_easy.ogg/revision/latest?cb=20240908104444"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "e6013039535b3b2a9de0f04b7bd938b6",
+    "line": "If it lives, I can kill it.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ad/Reaper_-_If_it_lives%2C_I_can_kill_it.ogg/revision/latest?cb=20230914132833"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "685a6087a6a1499761b7bda6df32be22",
+    "line": "I'm back in black.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Reaper_-_I%27m_back_in_black.ogg/revision/latest?cb=20230914132805"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "0e136d466cc15183618573fdfce5cbe6",
+    "line": "I'm not a psychopath. I'm a high-functioning psychopath.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8b/Reaper_-_I%27m_not_a_psychopath._I%27m_a_high_functioning_psychopath.ogg/revision/latest?cb=20230914132818"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "8a989a13dc9129499310e0dafc8f50e6",
+    "line": "Next.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1b/Reaper_-_Next.ogg/revision/latest?cb=20230914133041"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "f73a79c02472f43c3c9b60b23e8352e3",
+    "line": "Was that all?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/51/Reaper_-_Was_that_all.ogg/revision/latest?cb=20230914133604"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "108a3f19edbb67e01743be92ae33c868",
+    "line": "You look like you've seen a ghost.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Reaper_-_You_look_like_you%27ve_seen_a_ghost.ogg/revision/latest?cb=20230914133727"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "11971bcce941f88f4b5c6d0c09a30bb8",
+    "line": "It's in the refrigerator.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Reaper_-_It%27s_in_the_refrigerator.ogg/revision/latest?cb=20230914132854"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "0c3eaae81139208662c40afb7b9838a0",
+    "line": "Just win.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Reaper_-_Just_win.ogg/revision/latest?cb=20230914132903"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "721d5f4a70d6c235e20ed677fa1ae6dd",
+    "line": "I work the graveyard shift.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4e/Reaper_-_I_work_the_graveyard_shift.ogg/revision/latest?cb=20230914132757"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "e1a7c253971903da230d02d139e8fa16",
+    "line": "I'm dressed to kill.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Reaper_-_I%27m_dressed_to_kill.ogg/revision/latest?cb=20230914132807"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "0118fd88462ead0865c0503a13458783",
+    "line": "Things are looking... grim.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Reaper_-_Things_are_looking..._grim.ogg/revision/latest?cb=20230914133522"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "f301b9dea3a917a961452050b1e2ed8e",
+    "line": "Too edgy for you?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Reaper_-_Too_edgy_for_you.ogg/revision/latest?cb=20230914133545"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "b4d64b914b9588f10f06d37443775245",
+    "line": "Where's my candy?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Reaper_-_Where%27s_my_candy.ogg/revision/latest?cb=20230914133653"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "5c6565bbce3b01736386bf25a6971985",
+    "line": "Where's your holiday spirit?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Reaper_-_Where%27s_your_holiday_spirit.ogg/revision/latest?cb=20230914133658"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "2b521b7b6001d14c99a474718cc37ea8",
+    "line": "You're on ice.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bb/Reaper_-_You%27re_on_ice.ogg/revision/latest?cb=20230914133747"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "6cd9f502ae65f0e1079f06a293374a67",
+    "line": "Black's my lucky color.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9b/Reaper_-_Black%27s_my_lucky_color.ogg/revision/latest?cb=20230914132255"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "b0c028fe00aa4dfa1ce8eedc8e04d700",
+    "line": "I have the devil's own luck.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5e/Reaper_-_I_have_the_devil%27s_own_luck.ogg/revision/latest?cb=20230914132716"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "d9a8edd7bfbd327ba03875e531e7f752",
+    "line": "Now those are some fireworks.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Reaper_-_Now_those_are_some_fireworks.ogg/revision/latest?cb=20230914133106"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "1d2f831e27feb78fa176e46a4dd3a01d",
+    "line": "Looks like it's amateur hour.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Reaper_-_Looks_like_it%27s_amateur_hour.ogg/revision/latest?cb=20230914132941"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "4fa805a7cd300669aa6fc54c3014d392",
+    "line": "Moving on.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/61/Reaper_-_Moving_on.ogg/revision/latest?cb=20230914133024"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "5e24a19f19368bd07983bdaea7c5ec47",
+    "line": "Revenge is sweet.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/53/Reaper_-_Revenge_is_sweet.ogg/revision/latest?cb=20230914133223"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "147ea0f26b762a35d96ed1ef956b8b9f",
+    "line": "I'll see you in hell.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dc/Reaper_-_I%27ll_see_you_in_hell.ogg/revision/latest?cb=20230914132803"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "d6980349d7d0c4a675e9e663638f8317",
+    "line": "No one left behind.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Reaper_-_No_one_left_behind.ogg/revision/latest?cb=20230914133053"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "fa6776ff817a63d16b7b907d3a42480b",
+    "line": "Pathetic.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Reaper_-_Pathetic.ogg/revision/latest?cb=20230914133134"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "aaae9661890f19bdf8e98c7b54ce344c",
+    "line": "Smile.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Reaper_-_Smile.ogg/revision/latest?cb=20230914133301"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "2b06994afda92b163118e7774edbfa3d",
+    "line": "It's your day to be dead. (Calavera Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a9/Reaper_-_It%27s_your_day_to_be_dead.ogg/revision/latest?cb=20230914132856"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "d162dcaad3798edc5e2a628e89832f64",
+    "line": "It's game over for you. (Tomura Shigaraki Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Reaper_-_It%27s_game_over_for_you.ogg/revision/latest?cb=20241128011225"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "c4a2154e79da119aca164ccfa3e1684d",
+    "line": "Come to hell with me. (Deathscythe Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Reaper_-_Come_to_hell_with_me.ogg/revision/latest?cb=20260305233907"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "dd8d7a90484ff033e596fa3e6a3d3c6a",
+    "line": "Everyone who sees me will die. (Deathscythe Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Reaper_-_Everyone_who_sees_me_will_die.ogg/revision/latest?cb=20260305233910"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "4e64e7d7aaad26f77d376c3f63b1fee4",
+    "line": "Balderdash! (Cobra Commander Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/27/Reaper_-_Balderdash.ogg/revision/latest?cb=20260305233903"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "e47db6ce973fd633efdc361af8fec647",
+    "line": "I hate this job. (Cobra Commander Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Reaper_-_I_hate_this_job.ogg/revision/latest?cb=20260305233916"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "725db1b28708fbd76837310aeba0fcbf",
+    "line": "You fools! (Cobra Commander Reaper Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/93/Reaper_-_You_fools.ogg/revision/latest?cb=20260305233943"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "45e32d4096cf3793f2da2e38ca23ba6b",
+    "line": "What lurks in the dark?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Reaper_-_What_lurks_in_the_dark.ogg/revision/latest?cb=20240908104652"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "c8a0753620f48230dcac82ede39d71b0",
+    "line": "I live for the thrill of the kill.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Reaper_-_I_live_for_the_thrill_of_the_kill.ogg/revision/latest?cb=20240908104742"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "e77c293a7115924504e42feef6c43f36",
+    "line": "You're just asking to be killed.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Reaper_-_You%27re_just_asking_to_be_killed.ogg/revision/latest?cb=20240908104817"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "54c094e3dc513e83431f8c5725057558",
+    "line": "No style. No substance.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Reaper_-_No_style._No_substance.ogg/revision/latest?cb=20240908104844"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "8f7b41b35b26ebb9082a538910d9a683",
+    "line": "Immortality... what a joke.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ca/Reaper_-_Immortality..._what_a_joke.ogg/revision/latest?cb=20240908104931"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "051258d032ed6b6289fdfb1ef8ee2855",
+    "line": "Light the fireworks.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/62/Reaper_-_Light_the_fireworks.ogg/revision/latest?cb=20260305233924"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "88ed3dda35f61b3806a76fb6c959d82f",
+    "line": "Violence is always the answer.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1f/Reaper_-_Violence_is_always_the_answer.ogg/revision/latest?cb=20260305233937"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "0800e9f99eb0b0256a7925dffb887f12",
+    "line": "I'm the Grim Reaper.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Reaper_-_I%27m_the_Grim_Reaper.ogg/revision/latest?cb=20260305233923"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "21ff793c9ec2b813748c1b56ea36ee36",
+    "line": "Sneaking in undetected is my specialty.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Reaper_-_Sneaking_in_undetected_is_my_specialty.ogg/revision/latest?cb=20260305233929"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "7197ad64c1a59eb94450e372bcafc178",
+    "line": "What's so funny?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Reaper_-_What%27s_so_funny.ogg/revision/latest?cb=20260305233940"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "303f0fc5db43b99b2fa66296b49f1b86",
+    "line": "Stand and fight, you cowards!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Reaper_-_Stand_and_fight%2C_you_cowards.ogg/revision/latest?cb=20260305233933"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "bf6d2baf7a8d0b515b8dab086e949e68",
+    "line": "I will avenge this insult!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Reaper_-_I_will_avenge_this_insult.ogg/revision/latest?cb=20260305233919"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "74512e30d1dbcc0ada0c424083778561",
+    "line": "How dare you do that. Get off my screen!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Reaper_-_How_dare_you_do_that._Get_off_my_screen.ogg/revision/latest?cb=20260305233915"
+  },
+  {
+    "hero": "Reaper",
+    "ID": "aae209a3645c8e4c4054325ef7f0b078",
+    "line": "You'll be deader than disco!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d4/Reaper_-_You%27ll_be_deader_than_disco.ogg/revision/latest?cb=20260305233946"
+  }
+]

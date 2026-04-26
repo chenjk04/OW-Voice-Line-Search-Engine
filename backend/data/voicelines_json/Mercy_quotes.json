@@ -1,0 +1,254 @@
+[
+  {
+    "hero": "Mercy",
+    "ID": "b14d476a39df082355b2eca7ddcad567",
+    "line": "I have my eye on you.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Mercy_-_I_have_my_eye_on_you.ogg/revision/latest?cb=20230914115009"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "65c6121f5d7e468b3a87cad4f30d6033",
+    "line": "Doctor's orders.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0d/Mercy_-_Doctor%27s_orders.ogg/revision/latest?cb=20230914114659"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "b34472ce22a320916f7393b27ab007d6",
+    "line": "How barbaric.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Mercy_-_How_barbaric.ogg/revision/latest?cb=20230914114923"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "2bad62eb4f94687f93bafd62d61edfdb",
+    "line": "I'll send you my consultation fee.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Mercy_-_I%27ll_send_you_my_consultation_fee.ogg/revision/latest?cb=20230914115057"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "e9c049323ebf1b5f50e2b53ca2d7e247",
+    "line": "I'm not a miracle worker... Well, not always.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/84/Mercy_-_I%27m_not_a_miracle_worker..._Well%2C_not_always.ogg/revision/latest?cb=20230914115116"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "17639db541abe1db159113496aec69d5",
+    "line": "Need a second opinion?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Mercy_-_Need_a_second_opinion.ogg/revision/latest?cb=20230914115348"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "6285573f24bd224f1d3d51510d4ce89d",
+    "line": "On a scale of 1 to 10, how is your pain?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5b/Mercy_-_On_a_scale_of_one_to_ten%2C_how_is_your_pain.ogg/revision/latest?cb=20230914115428"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "5f908c3bda92e0777873d165fc04940e",
+    "line": "You should really get that looked at.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Mercy_-_You_should_really_get_that_looked_at.ogg/revision/latest?cb=20230914120120"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "20659a34ba3cc30a47798a029981cd68",
+    "line": "Super!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Mercy_-_%28German%29_Excellent.ogg/revision/latest?cb=20230914114352"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "d67796dcc1458005fe9fced6ecd3e552",
+    "line": "Take two and call me in the morning.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Mercy_-_Take_two_and_call_me_in_the_morning.ogg/revision/latest?cb=20230914115634"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "c05b418580fbc517b560fa2a1c7fef7b",
+    "line": "The doctor is in!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b8/Mercy_-_The_doctor_is_in.ogg/revision/latest?cb=20230914115710"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "430fd2160a4725cda771068b3ecedf0f",
+    "line": "Expand Sprechstunde bei der Frau Doktor. English: The doctor will see you now.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Mercy_-_%28German%29_The_doctor_will_see_you_now.ogg/revision/latest?cb=20230914114425"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "c22d57bd35b7af4ad153d74c1995548b",
+    "line": "Piece of cake.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/dd/Mercy_-_Piece_of_cake.ogg/revision/latest?cb=20230914115450"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "7d17617b9f5a23d08e0aee775609cb52",
+    "line": "Would you like the sponge or the spray?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Mercy_-_Would_you_like_the_sponge_or_the_spray.ogg/revision/latest?cb=20230914120053"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "1c8087ee86c6c35e3435c65c0f21160a",
+    "line": "I'll cast a spell on you!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/Mercy_-_I%27ll_cast_a_spell_on_you.ogg/revision/latest?cb=20230914115050"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "986c04762b3a617eaa6ba06a392b43b8",
+    "line": "Sometimes you scare me.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Mercy_-_Sometimes_you_scare_me.ogg/revision/latest?cb=20230914115559"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "748861e259cf9bf8b95796af15517a40",
+    "line": "Hmph. Superstition.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Mercy_-_Hmph._Superstition.ogg/revision/latest?cb=20230914114914"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "17ef78f2b466e4872acb31f8e4fa7f47",
+    "line": "I could use the time off.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Mercy_-_I_could_use_the_time_off.ogg/revision/latest?cb=20230914114954"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "43e679f9374be0b553d2bc527f9ea726",
+    "line": "Your guardian angel.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Mercy_-_Your_guardian_angel.ogg/revision/latest?cb=20230914120136"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "3ca7db18638543961473582eed7ff5d5",
+    "line": "A most impressive display.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Mercy_-_A_most_impressive_display.ogg/revision/latest?cb=20230914114507"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "9d185f653398c384f94fcb52c9f40541",
+    "line": "How are you feeling?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Mercy_-_How_are_you_feeling.ogg/revision/latest?cb=20230914114921"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "81543d478950758b39b0924ae2af4290",
+    "line": "How lucky for you!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Mercy_-_How_lucky_for_you.ogg/revision/latest?cb=20230914114924"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "1bfffbfc8a43a3558f9a480c5880e617",
+    "line": "A timely intervention.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d0/Mercy_-_A_timely_intervention.ogg/revision/latest?cb=20230914114510"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "19d5e8998e132ec6cde2e8b91483c43a",
+    "line": "I have the distinct feeling that I'm needed somewhere...",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Mercy_-_I_have_the_distinct_feeling_that_I%27m_needed_somewhere.ogg/revision/latest?cb=20230914115011"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "d04867536d7a51fa7bfdea286b04f71f",
+    "line": "That's my expert opinion.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Mercy_-_That%27s_my_expert_opinion.ogg/revision/latest?cb=20230914115659"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "dd90ee6382c6805a01e973e22e762fee",
+    "line": "Sometimes I'm not sure why I even bother.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4f/Mercy_-_Sometimes_I%27m_not_sure_why_I_even_bother.ogg/revision/latest?cb=20230914115558"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "2b3fb9a5f4390bceae17bc4d02f7a0ef",
+    "line": "You really should take better care of yourself!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mercy_-_You_really_should_take_better_care_of_yourself.ogg/revision/latest?cb=20230914120118"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "b95749dd6755f17be155ea6498f4f4c4",
+    "line": "Are you quite done?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Mercy_-_Are_you_quite_done.ogg/revision/latest?cb=20230914114540"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "534331d5eb523052e4587a2002a0896d",
+    "line": "Someone call the whambulance!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/81/Mercy_-_Someone_call_the_whambulance.ogg/revision/latest?cb=20230914115552"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "8a0952717e5ec34a3d33abc4a93db210",
+    "line": "I've seen worse.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a4/Mercy_-_I%27ve_seen_worse.ogg/revision/latest?cb=20230914115147"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "0d8f6099f3a361d556e7352ee72bdce8",
+    "line": "Questionable judgment.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Mercy_-_Questionable_judgment.ogg/revision/latest?cb=20230914115508"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "171a64d030f3dfc8f07b853f293c8677",
+    "line": "You're welcome.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Mercy_-_You%27re_welcome_%281%29.ogg/revision/latest?cb=20230914120131"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "6e230b78ee37aadf393c1d2fa25d9a2a",
+    "line": "It's the witching hour.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/89/Mercy_-_It%27s_the_witching_hour.ogg/revision/latest?cb=20240117203909"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "2e072ca031246b31c9763fa9f89034ca",
+    "line": "Survival of the healthiest!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Mercy_-_Survival_of_the_healthiest.ogg/revision/latest?cb=20241222100647"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "d73aeedd94550090ca28414eae96955f",
+    "line": "Are you finished?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4b/Mercy_-_Are_you_finished.ogg/revision/latest?cb=20241222100702"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "b73b83ccd7b32f5489ae899bc954c3e4",
+    "line": "You are a royal pain.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Mercy_-_You_are_a_royal_pain.ogg/revision/latest?cb=20260424103434"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "8f78f4a0578d0ce54275025ca36fc908",
+    "line": "Birds of a feather get healed together. (Owl Guardian Mercy Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Mercy_-_Birds_of_a_feather_get_healed_together.ogg/revision/latest?cb=20230914114604"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "60ed215b073b05bd954a36c45ae9e88d",
+    "line": "Zero, lead me! (Wing Zero Mercy Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Mercy_-_Zero%2C_lead_me.ogg/revision/latest?cb=20260424103434"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "71bc287d4dcf656a82db3249f7d42733",
+    "line": "Zero System activated! (Wing Zero Mercy Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Mercy_-_Zero_System_activated.ogg/revision/latest?cb=20260424103434"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "dc90790e620f883c9f9be2eff8f2f78f",
+    "line": "A beautiful rose has thorns. (Panther Mercy Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Mercy_-_A_beautiful_rose_has_thorns.ogg/revision/latest?cb=20260424103434"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "0ac8eded1f2bb41d1fd611420b53533a",
+    "line": "Dance, Carmen! (Panther Mercy Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Mercy_-_Dance%2C_Carmen.ogg/revision/latest?cb=20260424103434"
+  },
+  {
+    "hero": "Mercy",
+    "ID": "274ac1f1699052f7210387b51498116d",
+    "line": "Mission accomplished.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Mercy_-_Mission_accomplished.ogg/revision/latest?cb=20260424103434"
+  }
+]

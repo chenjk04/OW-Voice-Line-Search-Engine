@@ -1,0 +1,272 @@
+[
+  {
+    "hero": "Orisa",
+    "ID": "eefaea97027754285db12dd5946fc9c6",
+    "line": "I am simply following my programming.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/Orisa_-_I_am_simply_following_my_programming.ogg/revision/latest?cb=20230914123941"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "056efa6b5ddd592e037e7c63aa179050",
+    "line": "Current outlook: concerning. optimal. negative. uncertain. slight chance of rain. (rare)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/77/Orisa_-_Current_outlook%2C_concerning.ogg/revision/latest?cb=20230914123727"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "12a55543324eedaedffef3356dd2ba61",
+    "line": "Do you need a hug?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c5/Orisa_-_Do_you_need_a_hug.ogg/revision/latest?cb=20230914123746"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "a197b176729e47e341a8853836b3b8dd",
+    "line": "Efi will not be happy about this.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Orisa_-_Efi_will_not_be_happy_about_this.ogg/revision/latest?cb=20230914123758"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "c0a5719bb381732dcf68f8fdfdd5fc02",
+    "line": "Error 404: sarcasm module not found.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Orisa_-_Error_404%2C_sarcasm_module_not_found.ogg/revision/latest?cb=20230914123839"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "cece1c40bd106e86eb03981303adb61a",
+    "line": "I'm sorry, but I can't do that.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Orisa_-_I%27m_sorry%2C_but_I_can%27t_do_that.ogg/revision/latest?cb=20230914124048"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "52382fc0fbaf0dbea9deb0e9603b3480",
+    "line": "Medical assistance has been requested.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Orisa_-_Medical_assistance_has_been_requested.ogg/revision/latest?cb=20230914124123"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "ce993ed21ec73004a7e3e505f991cf5e",
+    "line": "No parking.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0f/Orisa_-_No_parking.ogg/revision/latest?cb=20230914124159"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "f2e64368f131ae2e6e294755f4a54db2",
+    "line": "Shine your eyes.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e2/Orisa_-_Shine_your_eyes.ogg/revision/latest?cb=20230914124310"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "c819f4b154227f191be7219a9ef27032",
+    "line": "That does not compute.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Orisa_-_That_does_not_compute_%281%29.ogg/revision/latest?cb=20230914124406"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "4d2db5d0c7c62e5c3da7239085e7975c",
+    "line": "Would you like my analysis of the situation?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7f/Orisa_-_Would_you_like_my_analysis_of_the_situation.ogg/revision/latest?cb=20230914124539"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "ced1a26b84d0870014af4f19f732b4b0",
+    "line": "Your security is my primary concern.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Orisa_-_Your_security_is_my_primary_concern.ogg/revision/latest?cb=20230914124605"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "3af96ca78cfe3e87b32812cd309b804b",
+    "line": "Golden.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Orisa_-_Golden.ogg/revision/latest?cb=20230914123913"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "283d8c36c71ad9e313af0fd756e0aa0a",
+    "line": "More grease to your elbow.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/48/Orisa_-_More_grease_to_your_elbow.ogg/revision/latest?cb=20230914124130"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "306c5c766aae09dcdc93df98405dea83",
+    "line": "Thank you for understanding.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Orisa_-_Thank_you_for_understanding.ogg/revision/latest?cb=20230914124401"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "8168a8622b20f12e4163e5ca0be9deb3",
+    "line": "Be careful when crossing the street.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Orisa_-_Be_careful_when_crossing_the_street.ogg/revision/latest?cb=20230914123703"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "328115c23ca07fde1e53e7a3d546f318",
+    "line": "Exterminate! Exterminate!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/18/Orisa_-_Exterminate._Exterminate.ogg/revision/latest?cb=20230914123850"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "aa8e51f57261572078bd330830cd3f03",
+    "line": "Your pulse has increased. Are you frightened?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/Orisa_-_Your_pulse_has_increased._Are_you_frightened.ogg/revision/latest?cb=20230914124604"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "0fb33ad2566863b23b4130cdc8a1abd0",
+    "line": "Annual performance analysis: extra coal. improvement needed. nice! naughty.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Orisa_-_Annual_performance_analysis%2C_extra_coal.ogg/revision/latest?cb=20230914123644"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "fb7c133554eb6fc55be8b65097b96652",
+    "line": "Can't I guide your way tonight?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Orisa_-_Can%27t_I_guide_your_way_tonight.ogg/revision/latest?cb=20230914123711"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "cddc41c41780d582c3dea1ccf140b88a",
+    "line": "Stack overflow.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Orisa_-_Stack_overflow.ogg/revision/latest?cb=20230914124319"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "e111ff1ccb7b2ed3b16df5c13557f7cf",
+    "line": "The moon that wanes today was the full moon yesterday.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/21/Orisa_-_The_moon_that_wanes_today_was_the_full_moon_yesterday.ogg/revision/latest?cb=20230914124420"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "f48dcef62d0fdc3552e10ac7431ce924",
+    "line": "Who is ready to party?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Orisa_-_Who_is_ready_to_party.ogg/revision/latest?cb=20230914124537"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "c9ed802f0855830eee17a11b74c960c5",
+    "line": "Empathy module not responding.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ae/Orisa_-_Empathy_module_not_responding.ogg/revision/latest?cb=20230914123803"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "6af94b705472233eca55245fe063bc30",
+    "line": "Error: division by 0.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Orisa_-_Error._Division_by_zero.ogg/revision/latest?cb=20230914123840"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "1549334282575367974143ad446fadb6",
+    "line": "I was only trying to help.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Orisa_-_I_was_only_trying_to_help.ogg/revision/latest?cb=20230914124020"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "e7c9f776d944dca10d3691621e91715a",
+    "line": "I will take your statement now.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5f/Orisa_-_I_will_take_your_statement_now.ogg/revision/latest?cb=20230914124035"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "60237b4d124e733d9c9eecd1728e5bd4",
+    "line": "Some functionality may still be in beta.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Orisa_-_Some_functionality_may_still_be_in_beta.ogg/revision/latest?cb=20230914124318"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "c58663d7f2fececa33d4c57a6abdb901",
+    "line": "Are you satisfied with your protection?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Orisa_-_Are_you_satisfied_with_your_protection.ogg/revision/latest?cb=20230914123649"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "384419051cc1471f23d1b274525bf727",
+    "line": "I have a bad feeling about this.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b5/Orisa_-_I_have_a_bad_feeling_about_this.ogg/revision/latest?cb=20230914123951"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "ba0a73fc45a5a82483a3de43fc10011f",
+    "line": "If lost, please return to Efi.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2a/Orisa_-_If_lost%2C_please_return_to_Efi.ogg/revision/latest?cb=20230914124038"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "c593e7fc8c9b99f3aeb5f829490cc073",
+    "line": "Thank you for your compliance.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Orisa_-_Thank_you_for_your_compliance.ogg/revision/latest?cb=20230914124402"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "b70bbf0c4da9bdb9a9fbe23ed9dd9c32",
+    "line": "I do not cower in the presence of evil.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c6/Orisa_-_I_do_not_cower_in_the_presence_of_evil.ogg/revision/latest?cb=20230914123947"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "5f12cd81b235da5d263da8f368e0872f",
+    "line": "I wield the scales and the sword.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/37/Orisa_-_I_wield_the_scales_and_the_sword.ogg/revision/latest?cb=20230914124021"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "f43287862fdbe33fd3d33d5dc6b3a7ec",
+    "line": "Who said chivalry is dead?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Orisa_-_Who_said_chivalry_is_dead.ogg/revision/latest?cb=20230914124537"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "9d12fc15447f3ad319c6b20ba6349efe",
+    "line": "What evil dooms, I will save.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Orisa_-_What_evil_dooms%2C_I_will_save.ogg/revision/latest?cb=20240613230157"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "02b142280791688259135c98e3dc6971",
+    "line": "You do not want to hear me roar.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Orisa_-_You_do_not_want_to_hear_me_roar.ogg/revision/latest?cb=20240808140906"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "86b70b332172d62d47015772758d0c74",
+    "line": "Go and sit down.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Orisa_-_Go_and_sit_down.ogg/revision/latest?cb=20240613182619"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "2c758d671aa8f46aa924eb3ed9353260",
+    "line": "Bear the weight of judgment!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d5/Orisa_-_Bear_the_weight_of_judgment.ogg/revision/latest?cb=20241221074704"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "312a8c34e879a5e15f6a9c92add9df64",
+    "line": "A confession? For what crime?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Orisa_-_A_confession._For_what_crime.ogg/revision/latest?cb=20241221074704"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "50ad5d211a00ba3ffbb025a9b514616f",
+    "line": "Star light, star bright.",
+    "audio_url": null
+  },
+  {
+    "hero": "Orisa",
+    "ID": "2ff6b71a08993b940657cf04d4802261",
+    "line": "When will you learn?",
+    "audio_url": null
+  },
+  {
+    "hero": "Orisa",
+    "ID": "5ac375a8eb26551945dea0e147578f78",
+    "line": "Make a wish!",
+    "audio_url": null
+  },
+  {
+    "hero": "Orisa",
+    "ID": "9f2e048b36da4c8625f494330be3c924",
+    "line": "I am built different. (Carved Orisa Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Orisa_-_I_am_built_different.ogg/revision/latest?cb=20230914123933"
+  },
+  {
+    "hero": "Orisa",
+    "ID": "04dc25d2dec6dedcec6cdcc71f89d072",
+    "line": "Yip yip! (Appa Orisa Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/86/Orisa_-_Yip_yip.ogg/revision/latest?cb=20241221074703"
+  }
+]

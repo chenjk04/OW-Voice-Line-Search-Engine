@@ -1,0 +1,74 @@
+[
+  {
+    "hero": "Jetpack Cat",
+    "ID": "c2eeb849026c9c0997e4e3178aa27bd9",
+    "line": "(Taunting) Meow meow me meow meow!",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "e27d28d35a31de60329766437155e21c",
+    "line": "(Aggressive) Meowwwwwwww!",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "e7a903019ba5e27a4fca3e133df54008",
+    "line": "(Annoyed) Meow, meow...",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "da56f0d4e36ddaa567ff41c09f2e53c1",
+    "line": "(Begrudging) Meow, Meowww...",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "854da531363f86765e5644491ab7d923",
+    "line": "(Excited) Meow! Meowww...!",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "6f7863b3bd2cd599644b645c7cbd38fb",
+    "line": "(Innocent) Meow Meow...",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "f3f862be1f93391a351c319cf5b5b2a1",
+    "line": "(Inviting) Meow, Meow!",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "748d55679ae4059857e2ba3b7ca640e5",
+    "line": "(Pew Pew) Meow, Meow, meow! *hiss*",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "6020d2e23d0f01b7ec16c275cced8f55",
+    "line": "(Shrugging) Meow... meow meow!",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "0e845aadb0b4d74ea45827bf98a54bb3",
+    "line": "(Questioning) Meow, meow, meow?",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "7d350ed43565127ac27d425bad5d3853",
+    "line": "(Singing) Meow, meow, meow meow meow meow, meow meow...",
+    "audio_url": null
+  },
+  {
+    "hero": "Jetpack Cat",
+    "ID": "2a92a096727dc0361caaf19b49465c86",
+    "line": "(Tumbling) Meeeeoooowwww...",
+    "audio_url": null
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "hero": "Doomfist",
+    "ID": "c4ea4d21c448be972316457d774bfbf4",
+    "line": "Try me.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d1/Doomfist_-_Try_me.ogg/revision/latest?cb=20230913154135"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "955c44c5a04231c961c8897accbe4816",
+    "line": "Combo breaker!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Doomfist_-_Combo_breaker.ogg/revision/latest?cb=20230913153209"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "011af74a285f3dd10eb2178322ad3207",
+    "line": "Don't get back up.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Doomfist_-_Don%27t_get_back_up.ogg/revision/latest?cb=20230913153249"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "d42e66358f57c2f01444dc8f91c72122",
+    "line": "Go and sit down.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e6/Doomfist_-_Go_and_sit_down.ogg/revision/latest?cb=20230913153406"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "f9d2aaa51e89794ca3bef0346bef3efe",
+    "line": "I haven't even started.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/47/Doomfist_-_I_haven%27t_even_started.ogg/revision/latest?cb=20230913153502"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "e5a1a90ceea30db5f4415fbc983ad7c7",
+    "line": "K.O.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Doomfist_-_K.O.ogg/revision/latest?cb=20230913153630"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "c00c201c6e99169597031af162c97087",
+    "line": "One punch is all I need.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Doomfist_-_One_punch_is_all_I_need.ogg/revision/latest?cb=20230913153750"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "c7f1927000aa9fa0f360feda8b1667b6",
+    "line": "Spare me the commentary.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Doomfist_-_Spare_me_the_commentary.ogg/revision/latest?cb=20230913153915"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "f1ca1237574b64c6602df1b5e84cac7b",
+    "line": "Talk to the fist.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e7/Doomfist_-_Talk_to_the_fist.ogg/revision/latest?cb=20230913153939"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "4253aaf98a2fb929673267dc7cfacf26",
+    "line": "You must be joking.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/52/Doomfist_-_You_must_be_joking.ogg/revision/latest?cb=20230913154306"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "f4fb397d5a50e05d382f2f554095ce27",
+    "line": "You test my patience.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f2/Doomfist_-_You_test_my_patience.ogg/revision/latest?cb=20230913154314"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "b8214e0ce0203edd2ecc64f5fee25977",
+    "line": "You're not bad, but not good either.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Doomfist_-_You%27re_not_bad._But_not_good_either.ogg/revision/latest?cb=20230913154323"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "279128b7f8b27da8e9bfa84aa9f73e3d",
+    "line": "So mean, I make medicine sick.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Doomfist_-_So_mean_I_make_medicine_sick.ogg/revision/latest?cb=20230913153909"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "d255aaf727320b913e53866a69adc741",
+    "line": "I'm going to make you punch drunk.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6c/Doomfist_-_I%27m_going_to_make_you_punch_drunk.ogg/revision/latest?cb=20230913153545"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "be4100d25e6e5ecc4a16f715fe88863f",
+    "line": "Step into the ring.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Doomfist_-_Step_into_the_ring.ogg/revision/latest?cb=20230913153921"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "3b670e769c074c2b4a6d4ac6cb99b7eb",
+    "line": "You picked the wrong side.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Doomfist_-_You_picked_the_wrong_side.ogg/revision/latest?cb=20230913154307"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "2b59a6841be2e5dfb26f6e1f8c0ab18c",
+    "line": "I have something right here for you.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Doomfist_-_I_have_something_right_here_for_you.ogg/revision/latest?cb=20230913153458"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "a315526a6f196335b8b13c9c17cc0cdb",
+    "line": "Knock, knock. *chuckle*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b0/Doomfist_-_Knock%2C_knock_%282%29.ogg/revision/latest?cb=20230913153634"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "00a6e7bb2c68a20bcb49450b0b987792",
+    "line": "You should be scared.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Doomfist_-_You_should_be_scared.ogg/revision/latest?cb=20230913154309"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "4eb2598ba9f50d4d7183663995027554",
+    "line": "Did you bring me a present?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/00/Doomfist_-_Did_you_bring_me_a_present.ogg/revision/latest?cb=20230913153238"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "7ed412b67be1cb55f4b5eaa6b743eb59",
+    "line": "Hot cocoa? Fine, I'll have some.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Doomfist_-_Hot_cocoa._Fine%2C_I%27ll_have_some.ogg/revision/latest?cb=20230913153431"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "74fedee71701a18bd6f79d243293a7ee",
+    "line": "And they say chivalry is dead.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/24/Doomfist_-_And_they_say_chivalry_is_dead.ogg/revision/latest?cb=20230913153133"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "36ecf22599a28cb9257f9ead8526352d",
+    "line": "Fortune favors the bold.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Doomfist_-_Fortune_favors_the_bold.ogg/revision/latest?cb=20230913153345"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "ba346e959de1bf558826a3cedb13eaa2",
+    "line": "I'll throw you a bone.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Doomfist_-_I%27ll_throw_you_a_bone.ogg/revision/latest?cb=20230913153542"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "b5f5020bc29f7ae082a2dad2985e196c",
+    "line": "I will eat more dumplings than anyone has ever eaten!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Doomfist_-_I_will_eat_more_dumplings_than_anyone_has_ever_eaten.ogg/revision/latest?cb=20230913153534"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "f7e3f3847231b73cc878b3f5c02cc032",
+    "line": "I am not your savior.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e9/Doomfist_-_I_am_not_your_savior.ogg/revision/latest?cb=20230913153440"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "70fc2ed8c6cd81322da0e7838e9ec5ca",
+    "line": "I didn't ask for your opinion.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2e/Doomfist_-_I_didn%27t_ask_for_your_opinion.ogg/revision/latest?cb=20230913153446"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "b65092678901388a57ae227b6d16f1fb",
+    "line": "I know you can do better.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/20/Doomfist_-_I_know_you_can_do_better.ogg/revision/latest?cb=20230913153508"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "b7557814aa2f8993032eb36906e4a4ea",
+    "line": "Such potential... wasted.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Doomfist_-_Such_potential..._wasted.ogg/revision/latest?cb=20230913153929"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "dbc8e3772a63ead3f8a4fe5658106dd8",
+    "line": "Take it on the chin.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Doomfist_-_Take_it_on_the_chin.ogg/revision/latest?cb=20230913153936"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "ba516ae4880c77131fce2d6e0a08bacf",
+    "line": "I might lose, but you can't win.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Doomfist_-_I_might_lose._But_you_can%27t_win.ogg/revision/latest?cb=20230913153512"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "65d7bd40688f6fc62662f2c9e785acc9",
+    "line": "I find your lack of belief... troubling.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fd/Doomfist_-_I_find_your_lack_of_belief_troubling.ogg/revision/latest?cb=20230913153454"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "d977e6fe2fdfafcf6f3b0be76b936e92",
+    "line": "Let's see how powerful that laser really is.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b1/Doomfist_-_Let%27s_see_how_powerful_that_laser_really_is.ogg/revision/latest?cb=20230913153650"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "ba43e097918fa2c50a919d8ca3a342ad",
+    "line": "Doomfist does celebrate until his wars are won.",
+    "audio_url": null
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "ca66b9cc76c4fe014bd02366c1f3423e",
+    "line": "Premature panic is the sign of an immature mind.",
+    "audio_url": null
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "162769c84a7d55faa597e35b701539fe",
+    "line": "Throw a planet at me? I'll throw it back!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/be/Doomfist_-_Throw_a_planet_at_me._I%27ll_throw_it_back.ogg/revision/latest?cb=20230913154119"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "8fcae47f3a2b343a00c111981360be7f",
+    "line": "Gain more experience before you challenge me again.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Doomfist_-_Gain_more_experience_before_you_challenge_me_again.ogg/revision/latest?cb=20230913153348"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "6b63b9a81210dfb9cbe9302fe41e5aff",
+    "line": "See you in your nightmares.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/65/Doomfist_-_See_you_in_your_nightmares.ogg/revision/latest?cb=20240623025403"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "ead799173f60b847059c9beef7828b1e",
+    "line": "You wouldn't last a day on the Savanna.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/57/Doomfist_-_You_wouldn%27t_last_a_day_on_the_Savanna.ogg/revision/latest?cb=20241214080439"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "bb4c0822639bef3a3b594b0f1db046a0",
+    "line": "I am the final boss.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/eb/Doomfist_-_I_am_the_final_boss.ogg/revision/latest?cb=20240926231504"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "e7e0af63ad11adad721026f56f5a8935",
+    "line": "Hydration is key for any hard working warrior.",
+    "audio_url": null
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "dd5ef0b6469e78f19bb44804ef02c0c4",
+    "line": "One hundred push-ups! One hundred sit-ups! One hundred squats! Then a 10-kilometer run. (Saitama Doomfist Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6a/Doomfist_-_One_hundred_push-ups%21_One_hundred_sit-ups%21_One_hundred_squats%21_Then_a_ten_kilometer_run.ogg/revision/latest?cb=20230913153749"
+  },
+  {
+    "hero": "Doomfist",
+    "ID": "ce8138b6651aa07eb0e966b0fd9e40a8",
+    "line": "Such bottomless stupidity. (Destro Doomfist Bundle)",
+    "audio_url": null
+  }
+]

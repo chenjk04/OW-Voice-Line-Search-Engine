@@ -1,0 +1,242 @@
+[
+  {
+    "hero": "Mei",
+    "ID": "13ecc305eb033aa05e32b0136539b527",
+    "line": "Hang in there.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Mei_-_Hang_in_there.ogg/revision/latest?cb=20230914113019"
+  },
+  {
+    "hero": "Mei",
+    "ID": "e537cc661d570c6cfac069665a2e8d74",
+    "line": "A-Mei-zing!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/39/Mei_-_A-Mei-zing.ogg/revision/latest?cb=20230914112707"
+  },
+  {
+    "hero": "Mei",
+    "ID": "e587d1f185bb14af8154d8253c1eeb31",
+    "line": "Haha! That was great!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Mei_-_That_was_great.ogg/revision/latest?cb=20230914113845"
+  },
+  {
+    "hero": "Mei",
+    "ID": "6a271777fca7b8d89290c554a5ef6907",
+    "line": "Hey, chill out!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Mei_-_Hey%2C_chill_out.ogg/revision/latest?cb=20230914113047"
+  },
+  {
+    "hero": "Mei",
+    "ID": "5645b3474ed9ede2b32a902d9cee2b71",
+    "line": "I hope you learned your lesson.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/71/Mei_-_I_hope_you_learned_your_lesson.ogg/revision/latest?cb=20230914113137"
+  },
+  {
+    "hero": "Mei",
+    "ID": "79a7092c1f139a59b700505bf52b7f4b",
+    "line": "Okay!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Mei_-_Okay%21.ogg/revision/latest?cb=20240212134621"
+  },
+  {
+    "hero": "Mei",
+    "ID": "0a081a0ea3f14201746fafb946c4ae1e",
+    "line": "Ouch! Are you okay?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Mei_-_Ouch%21_Are_you_okay.ogg/revision/latest?cb=20230914113623"
+  },
+  {
+    "hero": "Mei",
+    "ID": "bad418a2625a02ffbdcd91154903e9c9",
+    "line": "Sorry! Sorry, I'm sorry. Sorry.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/90/Mei_-_Sorry%21_Sorry%21_I%27m_sorry..._Sorry.ogg/revision/latest?cb=20230914113804"
+  },
+  {
+    "hero": "Mei",
+    "ID": "313b6a5c7ce4645d9dcfc3a8d253321f",
+    "line": "Yay!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Mei_-_Yay%21.ogg/revision/latest?cb=20240212134621"
+  },
+  {
+    "hero": "Mei",
+    "ID": "5be94192a26937387a6a9573abd28ef2",
+    "line": "You have to let it go.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Mei_-_You_have_to_let_it_go.ogg/revision/latest?cb=20230914114310"
+  },
+  {
+    "hero": "Mei",
+    "ID": "cafcf2dd66f14032cc8b424daa24a1ee",
+    "line": "Expand Zhè ge shì jiè zhí dé wǒ men fèn zhàn! Hanzi: 这个世界值得我们奋斗！ English: The world is worth fighting for!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e1/Mei_-_%28Chinese%29_Our_world%27s_worth_fighting_for.ogg/revision/latest?cb=20230914112543"
+  },
+  {
+    "hero": "Mei",
+    "ID": "df5a08f65bd54cf9d1744beedd0d59b1",
+    "line": "I tried my best.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Mei_-_I_tried_my_best.ogg/revision/latest?cb=20230914113215"
+  },
+  {
+    "hero": "Mei",
+    "ID": "3e6d1a9e205fe5ec6e210279d57e3f3d",
+    "line": "Overcome all obstacles.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/95/Mei_-_Overcome_all_obstacles.ogg/revision/latest?cb=20230914113635"
+  },
+  {
+    "hero": "Mei",
+    "ID": "f24252afea3ec1783b8a48e9a5f4e759",
+    "line": "Time to cool off.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c4/Mei_-_Time_to_cool_off.ogg/revision/latest?cb=20230914114020"
+  },
+  {
+    "hero": "Mei",
+    "ID": "9bd88a2557a61e63bdc0414026e4fa68",
+    "line": "Did you hear something?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Mei_-_Did_you_hear_something.ogg/revision/latest?cb=20230914112842"
+  },
+  {
+    "hero": "Mei",
+    "ID": "9ffcb985d83e7b2548141b3f89893bef",
+    "line": "Scary!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9f/Mei_-_Scaaaary.ogg/revision/latest?cb=20230914113722"
+  },
+  {
+    "hero": "Mei",
+    "ID": "2f820b1e0e6e0af516fe72d043c00c3c",
+    "line": "You scared me!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5a/Mei_-_You_scared_me.ogg/revision/latest?cb=20230914114314"
+  },
+  {
+    "hero": "Mei",
+    "ID": "2370bf990aa7767859826f4295c99db2",
+    "line": "Don't you just love surprises?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/12/Mei_-_Don%27t_you_just_love_surprises.ogg/revision/latest?cb=20230914112903"
+  },
+  {
+    "hero": "Mei",
+    "ID": "af08769b8bb3a6c5a96bd02f6b691ab4",
+    "line": "I got you something!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Mei_-_I_got_you_something.ogg/revision/latest?cb=20230914113124"
+  },
+  {
+    "hero": "Mei",
+    "ID": "8bc598b138d72cba36d09fc13ee3ba25",
+    "line": "Let's have some hot cocoa.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Mei_-_Let%27s_have_some_hot_cocoa.ogg/revision/latest?cb=20230914113402"
+  },
+  {
+    "hero": "Mei",
+    "ID": "ac6bb0848ba3b4222b1e84c4126b2ebd",
+    "line": "Snowball fight! Yay!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/Mei_-_Snowball_fight%21_Yay.ogg/revision/latest?cb=20230914113751"
+  },
+  {
+    "hero": "Mei",
+    "ID": "fff2be136022d8d3d1ed27e6136e274b",
+    "line": "The cold never bothered me anyway.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/65/Mei_-_The_cold_never_bothered_me_anyway.ogg/revision/latest?cb=20230914113900"
+  },
+  {
+    "hero": "Mei",
+    "ID": "ceb0d9eda8318160255c786f6bdc8554",
+    "line": "I feel like dancing!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9c/Mei_-_I_feel_like_dancing.ogg/revision/latest?cb=20230914113117"
+  },
+  {
+    "hero": "Mei",
+    "ID": "d112dd03692032effb49670b8ea6e011",
+    "line": "Expand Gõng xǐ fā cái! Hanzi: 恭喜发财！ English: Wishing you prosperity!/May you have a prosperous New Year!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Mei_-_%28Chinese%29_Be_happy_and_prosperous.ogg/revision/latest?cb=20230914112456"
+  },
+  {
+    "hero": "Mei",
+    "ID": "38de186cd8503e308fe709561411d121",
+    "line": "Expand Hóngbāo ná lái. Hanzi: 红包拿来。 English: Give me a red envelope.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/88/Mei_-_%28Chinese%29_Give_me_a_red_envelope.ogg/revision/latest?cb=20230914112510"
+  },
+  {
+    "hero": "Mei",
+    "ID": "f5a7cbdd239b5d90bb2f77e681275526",
+    "line": "Expand Hǔ nián kuàilè. Hanzi: 虎年快乐。 English: Happy year of the tiger.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Mei_-_%28Chinese%29_Happy_Year_of_the_Tiger.ogg/revision/latest?cb=20230914112512"
+  },
+  {
+    "hero": "Mei",
+    "ID": "e33dd711cd52ea8158260466443d431e",
+    "line": "Expand Lóng nián kuàilè! Hanzi: 龙年快乐！ English: Happy year of the dragon!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Mei_-_%28Chinese%29_Happy_year_of_the_dragon%21.ogg/revision/latest?cb=20240212143057"
+  },
+  {
+    "hero": "Mei",
+    "ID": "511d142349d4a791250a58bd5c4ddeb6",
+    "line": "Expand Moo! Niú nián kuàilè! Hanzi: Moo! 牛年快乐！ English: Moo! Happy year of the ox!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/45/Mei_-_%28Chinese%29_Moo%21_Happy_Year_of_the_Ox.ogg/revision/latest?cb=20230914112532"
+  },
+  {
+    "hero": "Mei",
+    "ID": "e79d72f93993f3244b1b1f5e5488d3b2",
+    "line": "Every day is a new adventure.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/Mei_-_Every_day_is_a_new_adventure.ogg/revision/latest?cb=20230914112924"
+  },
+  {
+    "hero": "Mei",
+    "ID": "9d11e31eeea32f565c3636c3a9cbcb6e",
+    "line": "I'm going to have to science the heck out of this.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Mei_-_I%27m_going_to_have_to_science_the_heck_out_of_this.ogg/revision/latest?cb=20230914113235"
+  },
+  {
+    "hero": "Mei",
+    "ID": "1dce65e8d538fc2b867b1e121abf8bdf",
+    "line": "I'm just a scientist.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Mei_-_I%27m_just_a_scientist.ogg/revision/latest?cb=20230914113240"
+  },
+  {
+    "hero": "Mei",
+    "ID": "dd96398d675431bf2e296cf1239c45ac",
+    "line": "I'm sure there's a reasonable scientific explanation for this.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Mei_-_I%27m_sure_there%27s_a_reasonable_scientific_explanation_for_this.ogg/revision/latest?cb=20230914113301"
+  },
+  {
+    "hero": "Mei",
+    "ID": "3b5302b741a591485f326c48dc027fba",
+    "line": "I was only trying to help!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1e/Mei_-_I_was_only_trying_to_help.ogg/revision/latest?cb=20230914113216"
+  },
+  {
+    "hero": "Mei",
+    "ID": "6364d53d1596e8861a9943dce5a9fcd1",
+    "line": "So mean! Honestly...",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/Mei_-_So_mean%21_Honestly.ogg/revision/latest?cb=20230914113754"
+  },
+  {
+    "hero": "Mei",
+    "ID": "25df4b6e88e7dcfa23c12a56d2b1a895",
+    "line": "Wake up, sleepyhead!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/59/Mei_-_Wake_up%2C_sleepyhead.ogg/revision/latest?cb=20230914114053"
+  },
+  {
+    "hero": "Mei",
+    "ID": "f83fa144fc2f096e44d241447201227f",
+    "line": "Expand Bào qiàn!... Bào qiàn. Wǒ hěn bào qiàn. Duì bù qǐ. Hanzi: 抱歉。 抱歉。 我很抱歉。 对不起。 English: Sorry. Sorry. I'm very sorry. I'm sorry.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Mei_-_%28Chinese%29_Sorry..._sorry..._sorry.ogg/revision/latest?cb=20230914112548"
+  },
+  {
+    "hero": "Mei",
+    "ID": "00cbe5ba630eb672edee93325e8cf240",
+    "line": "Expand Yú gōng yí shān! Hanzi: 愚公移山！ English: With persistence, we can move mountains!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Mei_-_%28Chinese%29_With_persistence%2C_we_can_move_mountains.ogg/revision/latest?cb=20230914112605"
+  },
+  {
+    "hero": "Mei",
+    "ID": "b52102ed38d86f355b6b0818f72fe133",
+    "line": "Wrong place, wrong time!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8d/Mei_-_Wrong_place%2C_wrong_time%21.ogg/revision/latest?cb=20240212134621"
+  },
+  {
+    "hero": "Mei",
+    "ID": "fea10435f866e052fe49ce253be413e0",
+    "line": "So strange!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8f/Mei_-_So_strange.ogg/revision/latest?cb=20240220135118"
+  },
+  {
+    "hero": "Mei",
+    "ID": "0b232bb417b530f474a0ff4f0adf3d01",
+    "line": "Love is brightest in the dark.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Mei_-_Love_is_brightest_in_the_dark.ogg/revision/latest?cb=20241221073631"
+  }
+]

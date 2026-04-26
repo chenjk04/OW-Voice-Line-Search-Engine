@@ -1,0 +1,86 @@
+[
+  {
+    "hero": "Sierra",
+    "ID": "e3666a054cb0af5172b86f4fee5e2474",
+    "line": "You can lean on me.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f8/Sierra_-_You_can_lean_on_me.ogg/revision/latest?cb=20260424032032"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "48786c718538a00ea5595f0db96d3512",
+    "line": "I don't mind a little trouble.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/73/Sierra_-_I_don%27t_mind_a_little_trouble.ogg/revision/latest?cb=20260424031457"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "0ad4586b89a358bcd4469b3519cc6b9f",
+    "line": "Nothin' a long walk won't fix.",
+    "audio_url": null
+  },
+  {
+    "hero": "Sierra",
+    "ID": "7d6218be635ab685c393c7e7eb40066e",
+    "line": "As you should!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fc/Sierra_-_As_you_should.ogg/revision/latest?cb=20260424031233"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "d6a88a4329b21216129fdc1d6bbddca7",
+    "line": "Never leave a teammate behind.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/Sierra_-_Never_leave_a_teammate_behind.ogg/revision/latest?cb=20260424031638"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "328a12f902e13d1efe2e392fabc67f40",
+    "line": "No mountain I can't climb, no target I can't reach.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/ce/Sierra_-_No_mountain_I_can%27t_climb%2C_no_target_I_can%27t_reach.ogg/revision/latest?cb=20260424031646"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "a41b8d1315633c1fcf3a788c1ebfb7ea",
+    "line": "Not enough carabiners...",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/09/Sierra_-_Not_enough_carabiners.ogg/revision/latest?cb=20260424031651"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "2995817f009073696bd56446c380ac05",
+    "line": "No matter what happens, I'll be standin' tall.",
+    "audio_url": null
+  },
+  {
+    "hero": "Sierra",
+    "ID": "0af2cacb9a786cd125271dd921fd4e0f",
+    "line": "You haven't touched grass? Might do you good.",
+    "audio_url": null
+  },
+  {
+    "hero": "Sierra",
+    "ID": "423fd2db84294fb382f0fe478fa158b8",
+    "line": "I'm thinkin' we can be friends.",
+    "audio_url": null
+  },
+  {
+    "hero": "Sierra",
+    "ID": "82cadbdba5940e082bcebf6d3fe8a179",
+    "line": "You know the drill.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Sierra_-_You_know_the_drill.ogg/revision/latest?cb=20260424032040"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "ba8efc8f475092f8f34654f4b1063615",
+    "line": "*gasp* Wanna go puddle-stompin'?",
+    "audio_url": null
+  },
+  {
+    "hero": "Sierra",
+    "ID": "7b83b9ddc4cb041cbf1bf57fa8c0b017",
+    "line": "It's just you and me, Dorothy.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Sierra_-_It%27s_just_you_and_me%2C_Dorothy.ogg/revision/latest?cb=20260424031535"
+  },
+  {
+    "hero": "Sierra",
+    "ID": "1c9b0292def088db3319797497a81cdb",
+    "line": "Teamwork might be hard sometimes, but it's worth it.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Sierra_-_Teamwork_might_be_hard_sometimes%2C_but_it%27s_worth_it.ogg/revision/latest?cb=20260424031824"
+  }
+]

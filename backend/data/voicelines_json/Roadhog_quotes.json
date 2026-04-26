@@ -1,0 +1,248 @@
+[
+  {
+    "hero": "Roadhog",
+    "ID": "4264b6be2d91a025e1ea79391103f3d0",
+    "line": "Welcome to the apocalypse.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/05/Roadhog_-_Welcome_to_the_apocalypse.ogg/revision/latest?cb=20230914141802"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "f4814da9484bf67881795d726ed4aa3d",
+    "line": "Like takin' candy from a baby.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Roadhog_-_Like_taking_candy_from_a_baby.ogg/revision/latest?cb=20230914141232"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "dc12b2bcf379cb0a2116bc7ecfe2aa77",
+    "line": "Eat this.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/49/Roadhog_-_Eat_this.ogg/revision/latest?cb=20230914140753"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "36cf4b27da8c8d1245511100739a80f2",
+    "line": "Got something to say?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/67/Roadhog_-_Got_something_to_say.ogg/revision/latest?cb=20230914140930"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "a6827367be0f26279d5e183f206bdc88",
+    "line": "Ha ha ha!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Roadhog_-_%28laughs%29_%281%29.ogg/revision/latest?cb=20230914140421"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "62f36fe7d43ba6eb65dc06315ea4e337",
+    "line": "Hook, line, and sinker.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Roadhog_-_Hook%2C_line%2C_and_sinker.ogg/revision/latest?cb=20230914141025"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "812eccfe052bb1b6767d37dd1efa06a9",
+    "line": "Life is pain. So is death. *laughs*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e3/Roadhog_-_Life_is_pain._So_is_death.ogg/revision/latest?cb=20230914141230"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "571dbc08f1326000a4eab28d2450469d",
+    "line": "Piece of cake.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Roadhog_-_Piece_of_cake.ogg/revision/latest?cb=20230914141422"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "82b10f2cd45173a26a11f1ceb40e52bf",
+    "line": "Push off.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/14/Roadhog_-_Push_off.ogg/revision/latest?cb=20230914141437"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "b2c715248b69529ec7612d8f32f3df5a",
+    "line": "Say \"bacon\" one more time.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cf/Roadhog_-_Say_bacon_one_more_time.ogg/revision/latest?cb=20230914141453"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "567aa194ffbd7e32c851ec4611f06268",
+    "line": "Violence is usually the answer.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/99/Roadhog_-_Violence_is_usually_the_answer.ogg/revision/latest?cb=20230914141733"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "ab58aaf7263b83b19349940427b09766",
+    "line": "We're all animals.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6b/Roadhog_-_We%27re_all_animals.ogg/revision/latest?cb=20230914141753"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "c649dca6830613001dd7b6df9ec19e7e",
+    "line": "No job too big, no score too small.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/72/Roadhog_-_No_job_too_big%2C_no_score_too_small.ogg/revision/latest?cb=20230914141322"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "5ea35f7176ea7c9ed13cf9582f8b8a31",
+    "line": "There's no \"I\" in team.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d9/Roadhog_-_There%27s_no_I_in_team.ogg/revision/latest?cb=20230914141634"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "2af8d1134e4d9f0e5cccdb6c8768f6eb",
+    "line": "What's mine, is mine.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/10/Roadhog_-_What%27s_mine_is_mine_%282%29.ogg/revision/latest?cb=20230914141810"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "22605a59f0865b79011595fe5496860b",
+    "line": "I'm on vacation, leave me alone.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a3/Roadhog_-_I%27m_on_vacation._Leave_me_alone.ogg/revision/latest?cb=20230914141125"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "8e7a19004b32048d46e27b9a8b938fd1",
+    "line": "Did you check beneath your bed? *laughs*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Roadhog_-_Did_you_check_beneath_your_bed.ogg/revision/latest?cb=20230914140717"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "fd851889955175b370b8e72d1355271b",
+    "line": "Boo!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1d/Roadhog_-_Boo_%281%29.ogg/revision/latest?cb=20230914140624"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "c0a1f813f76571e1e217abb90ad8a301",
+    "line": "Want some candy?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8e/Roadhog_-_Want_some_candy.ogg/revision/latest?cb=20230914141738"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "b681cce2675b4d9f4fe6a3b6ab842246",
+    "line": "Ho ho ho ho ho!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/Roadhog_-_Ho_ho_ho_ho_ho.ogg/revision/latest?cb=20230914141018"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "2d8c0225bd3213895636177c53518457",
+    "line": "I have your present right here.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Roadhog_-_I_have_your_present_right_here.ogg/revision/latest?cb=20230914141047"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "fcbaaa5bd9dd2ccffeec3680c32d7470",
+    "line": "Sweet as.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1c/Roadhog_-_Sweet_as.ogg/revision/latest?cb=20230914141600"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "5ab35210b6f6800a5d6c14bb24dd5879",
+    "line": "I'll catch you, and when I do... *laughs*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/74/Roadhog_-_I%27ll_catch_you%2C_and_when_I_do.ogg/revision/latest?cb=20230914141103"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "2e94a9337856f554c476ea966bd319af",
+    "line": "It's all gone to the dogs.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Roadhog_-_It%27s_all_gone_to_the_dogs.ogg/revision/latest?cb=20230914141147"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "7a6cab0f32ea21691d22b2a73fc3331d",
+    "line": "You chicken?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ef/Roadhog_-_You_chicken.ogg/revision/latest?cb=20230914141839"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "e5445621129abcea33e77dfdeb59ab83",
+    "line": "I've killed someone for less than that.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d2/Roadhog_-_I%27ve_killed_someone_for_less_than_that.ogg/revision/latest?cb=20230914141137"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "426ff0f00f13830e6cd9e8d8a967af14",
+    "line": "She'll be right.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Roadhog_-_She%27ll_be_right.ogg/revision/latest?cb=20230914141505"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "5d840e5e80e4061bf8a39e6c2f64fdde",
+    "line": "You wanna scrap with me?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Roadhog_-_You_want_to_scrap_with_me.ogg/revision/latest?cb=20230914141848"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "14fd9512038513ea76c481286e3e25e8",
+    "line": "I don't like talkers.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/80/Roadhog_-_I_don%27t_like_talkers.ogg/revision/latest?cb=20230914141041"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "bb24b5e3f82576b7ebb0a570fa4109cb",
+    "line": "I'm beached as, bro.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a2/Roadhog_-_I%27m_beached_as%2C_bro.ogg/revision/latest?cb=20230914141113"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "1eccba29b4b400053540965a727e2883",
+    "line": "I'm going hog wild!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/da/Roadhog_-_I%27m_going_hog_wild.ogg/revision/latest?cb=20230914141120"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "abc23dab25655872ef1c2e72d0b0fd52",
+    "line": "At least I'm not a rat.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/23/Roadhog_-_At_least_I%27m_not_a_rat.ogg/revision/latest?cb=20230914140605"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "c47f996ee6c7730942fd9729bd258e3c",
+    "line": "That's my business, and business is good.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9a/Roadhog_-_That%27s_my_business%2C_and_business_is_good.ogg/revision/latest?cb=20230914141627"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "c8e13571560bdb569c553e0983b49bc4",
+    "line": "Keeping my eye on you.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/60/Roadhog_-_Keeping_my_eye_on_you.ogg/revision/latest?cb=20230914141205"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "277d28dd2e2138fcd484ab3d3907041f",
+    "line": "Ahem. Wanna see a movie?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Roadhog_-_Ahem._Wanna_see_a_movie.ogg/revision/latest?cb=20230914140540"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "a80ffe8e2228a93966563845bd7f8af4",
+    "line": "I want a nebula to myself.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3f/Roadhog_-_I_want_a_nebula_to_myself.ogg/revision/latest?cb=20230914141056"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "680f9c08c2804796828b011d85a0da9f",
+    "line": "You're lucky I don't have my chainsaw.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b2/Roadhog_-_You%27re_lucky_I_don%27t_have_my_chainsaw.ogg/revision/latest?cb=20231230121915"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "b69fd2e1e5a9f5dbb3202bcf3ae85147",
+    "line": "One left hook and they're down.",
+    "audio_url": null
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "c984ddcc17f523e5a151d21778420620",
+    "line": "I've had rabbit, nothing special.",
+    "audio_url": null
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "84a7f47cf18beffc3f4fec7cf1dbbe00",
+    "line": "Quest log's full.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f3/Roadhog_-_Quest_log%27s_full.ogg/revision/latest?cb=20230914141441"
+  },
+  {
+    "hero": "Roadhog",
+    "ID": "439eac3f1ab221b9546fad20542f677a",
+    "line": "Gross. *chuckles*",
+    "audio_url": null
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "hero": "Genji",
+    "ID": "7c3416161c02d55e71de706ce85bec2a",
+    "line": "A steady blade balances the soul.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/11/Genji_-_A_steady_blade_balances_the_soul.ogg/revision/latest?cb=20230913160710"
+  },
+  {
+    "hero": "Genji",
+    "ID": "97cc4617426c6310a8085b1c191dab61",
+    "line": "Come on!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Genji_-_Come_on_%281%29.ogg/revision/latest?cb=20230913160820"
+  },
+  {
+    "hero": "Genji",
+    "ID": "65e9187f83040bacaf80476384d62302",
+    "line": "Hah! Simple.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Genji_-_Simple.ogg/revision/latest?cb=20230913161622"
+  },
+  {
+    "hero": "Genji",
+    "ID": "26e2a3672e447a6b9082400cfc5679d7",
+    "line": "Measure twice, cut once.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/63/Genji_-_Measure_twice._Cut_once.ogg/revision/latest?cb=20230913161342"
+  },
+  {
+    "hero": "Genji",
+    "ID": "b7dfd441395af77faffd9cec6141dcff",
+    "line": "You are only human.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a1/Genji_-_You_are_only_human.ogg/revision/latest?cb=20230913162135"
+  },
+  {
+    "hero": "Genji",
+    "ID": "437ffbcd0dc3707c1f6d474dfd8b9bda",
+    "line": "Expand Iza, jinjō ni shōbu! Japanese: いざ尋常に勝負！ English: Let's fight fairly!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f7/Genji_-_%28Japanese%29_Let%27s_fight_fairly.ogg/revision/latest?cb=20230913160519"
+  },
+  {
+    "hero": "Genji",
+    "ID": "b17270a36918b0669b856cb6514616ba",
+    "line": "Expand Kakugo! Japanese: 覚悟！ English: I am prepared!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Genji_-_%28Japanese%29_Ready.ogg/revision/latest?cb=20230913160542"
+  },
+  {
+    "hero": "Genji",
+    "ID": "1835f82b0fbf5aa174f6cf58b02b09f8",
+    "line": "Expand Kuso! Japanese: 糞！ English: Damn!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/92/Genji_-_%28Japanese%29_Damn_%284%29.ogg/revision/latest?cb=20230913160447"
+  },
+  {
+    "hero": "Genji",
+    "ID": "fff1d8e424efaa6454cc4f9817243c66",
+    "line": "Expand Mada mada! Japanese: まだまだ！ English: Not good enough!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/79/Genji_-_%28Japanese%29_Not_yet.ogg/revision/latest?cb=20230913160536"
+  },
+  {
+    "hero": "Genji",
+    "ID": "fac611949745d78c8a0fe77d21c988b2",
+    "line": "Expand Waga tamashī wa kinkō o motomeru. Japanese: 我が魂は均衡を求める。 English: My soul seeks balance. Expand Waga tamashī wa fukushu o motomeru. Japanese: 我が魂は復讐を求める。 English: My soul seeks vengeance.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/Genji_-_%28Japanese%29_My_soul_seeks_balance.ogg/revision/latest?cb=20230913160530"
+  },
+  {
+    "hero": "Genji",
+    "ID": "f3f888aed0a1eac59db59bb12c2c93e8",
+    "line": "Expand Yoshi! Japanese: 良し！ English: Okay!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Genji_-_%28Japanese%29_Yes_%281%29.ogg/revision/latest?cb=20230913160613"
+  },
+  {
+    "hero": "Genji",
+    "ID": "67cab27893188e4e60077dc79da1b4c9",
+    "line": "I was hoping for a challenge.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/06/Genji_-_I_was_hoping_for_a_challenge.ogg/revision/latest?cb=20230913161202"
+  },
+  {
+    "hero": "Genji",
+    "ID": "36ffa9cb79c798ebe0babee0c61dbc3d",
+    "line": "Touché.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/58/Genji_-_Touche.ogg/revision/latest?cb=20230913161942"
+  },
+  {
+    "hero": "Genji",
+    "ID": "ab36bcab199190ee33e6ef7bb2cb727a",
+    "line": "I am the sword in the shadows.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Genji_-_I_am_the_sword_in_the_shadows.ogg/revision/latest?cb=20230913161058"
+  },
+  {
+    "hero": "Genji",
+    "ID": "d062bd829b357dcc06e2a201abfe5280",
+    "line": "My Halloween costume? Cyborg ninja.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Genji_-_My_Halloween_costume..._Cyborg_ninja.ogg/revision/latest?cb=20230913161410"
+  },
+  {
+    "hero": "Genji",
+    "ID": "78dcc90512d6ed2b12b2a1ed5aeae4f4",
+    "line": "Expand Okashi o kurenakya itazura suru ze. Japanese: お菓子をくれなきゃ悪戯するぜ。 English: Trick or treat. Literal translation: If you don't give me a treat, I'll play a trick on you.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fa/Genji_-_%28Japanese%29_Trick_or_treat.ogg/revision/latest?cb=20230913160606"
+  },
+  {
+    "hero": "Genji",
+    "ID": "38900ee11037b09f65a265d8ae34d2b7",
+    "line": "Expand Yoi harōin o! Japanese: 良いハロウィンを。 English: Happy Halloween!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/64/Genji_-_%28Japanese%29_Happy_Halloween.ogg/revision/latest?cb=20230913160504"
+  },
+  {
+    "hero": "Genji",
+    "ID": "3871a85c61d571140a9038222f722357",
+    "line": "Count your blessings.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/fb/Genji_-_Count_your_blessings.ogg/revision/latest?cb=20230913160826"
+  },
+  {
+    "hero": "Genji",
+    "ID": "4dd358245365756d8aa9a9e54109ff61",
+    "line": "Expand Merīkurisumasu! Japanese: メリークリスマス！ English: Merry Christmas!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/Genji_-_Merry_Christmas.ogg/revision/latest?cb=20230913161344"
+  },
+  {
+    "hero": "Genji",
+    "ID": "d0c7cf8807d1c207f7cd0da01a09b465",
+    "line": "All bark, no bite.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/26/Genji_-_All_bark._No_bite.ogg/revision/latest?cb=20230913160719"
+  },
+  {
+    "hero": "Genji",
+    "ID": "960c4417b730360759e4104259540e05",
+    "line": "To know yourself is to be at peace.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/Genji_-_To_know_yourself_is_to_be_at_peace.ogg/revision/latest?cb=20230913161939"
+  },
+  {
+    "hero": "Genji",
+    "ID": "567df0d423e0dca553fac49f2cb5de20",
+    "line": "Life and death balance on the edge of my blade.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/ba/Genji_-_Life_and_death_balance_on_the_edge_of_my_blade.ogg/revision/latest?cb=20230913161332"
+  },
+  {
+    "hero": "Genji",
+    "ID": "cbcab30aab759008eb13dfb2ffcb8449",
+    "line": "Ryu-ichimonji strikes.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/17/Genji_-_Ryu-Ichimonji_strikes.ogg/revision/latest?cb=20230913161609"
+  },
+  {
+    "hero": "Genji",
+    "ID": "1bd80a657f977d3c8859a6e015749d72",
+    "line": "Your eyes deceive you.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3e/Genji_-_Your_eyes_deceive_you.ogg/revision/latest?cb=20230913162158"
+  },
+  {
+    "hero": "Genji",
+    "ID": "da24f473d80f85350ec6dc795c95806a",
+    "line": "Expand Kaedama! Japanese: 替え玉！ English: Another serving!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/df/Genji_-_%28Japanese%29_Extra_noodles.ogg/revision/latest?cb=20230913160459"
+  },
+  {
+    "hero": "Genji",
+    "ID": "99fe148531c7291ac449b5e857acd8de",
+    "line": "I am not impressed.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Genji_-_I%27m_not_impressed.ogg/revision/latest?cb=20230913161217"
+  },
+  {
+    "hero": "Genji",
+    "ID": "ad13c2df802025bf93f4be78180436cc",
+    "line": "My blade never dulls.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/33/Genji_-_My_blade_never_dulls.ogg/revision/latest?cb=20230913161403"
+  },
+  {
+    "hero": "Genji",
+    "ID": "80d5530e60e63417cbb5e78a92cfac3f",
+    "line": "The sword is an elegant weapon for a more civilized age.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Genji_-_The_sword_is_an_elegant_weapon_for_a_more_civilized_age.ogg/revision/latest?cb=20230913161834"
+  },
+  {
+    "hero": "Genji",
+    "ID": "77ca9e13ef164562cb086ee317403ad0",
+    "line": "You need healing.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Genji_-_You_need_healing.ogg/revision/latest?cb=20230913162144"
+  },
+  {
+    "hero": "Genji",
+    "ID": "73148b042af04f8a3ecc267fb2d661ac",
+    "line": "You seem nice. I'd hate to kill you.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/03/Genji_-_You_seem_nice._I_hate_to_kill_you.ogg/revision/latest?cb=20230913162145"
+  },
+  {
+    "hero": "Genji",
+    "ID": "0f625c89b3176ea2532759ab9a17d9d3",
+    "line": "The dragon and I are one!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d3/Genji_-_The_dragon_and_I_are_one.ogg/revision/latest?cb=20230913161741"
+  },
+  {
+    "hero": "Genji",
+    "ID": "33c2f5bead12b19a904177ed809f6204",
+    "line": "Expand Asakiyumemishi. Japanese: あさきゆめみし。 English: Bygone are the daydreams.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3c/Genji_-_%28Japanese%29_Dreaming_of_a_fond_reality.ogg/revision/latest?cb=20230913160455"
+  },
+  {
+    "hero": "Genji",
+    "ID": "c8140a5c096c325dcccefeeaf4750715",
+    "line": "Rust... my greatest weakness.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f0/Genji_-_Rust..._my_greatest_weakness.ogg/revision/latest?cb=20230913161608"
+  },
+  {
+    "hero": "Genji",
+    "ID": "2eeb0bf7f035babdd962bc0df3efd330",
+    "line": "I have accepted what I am.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/ab/Genji_-_I_have_accepted_what_I_am.ogg/revision/latest?cb=20230913161119"
+  },
+  {
+    "hero": "Genji",
+    "ID": "2fc005f21523654d0cefcd19fca69845",
+    "line": "Expand Kage to kieyo. Japanese: 影と消えよ English: Disappear with the shadows.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/08/Kage_to_kieyo.ogg/revision/latest?cb=20240404234429"
+  },
+  {
+    "hero": "Genji",
+    "ID": "dc8f93a8b14e3e175efb636e692a9570",
+    "line": "Expand Doko e ikōtomo, ore wa ore de ari tsuzukeru. Japanese: どこへ行こうとも、俺は俺で在り続ける。 English: No matter where I go, I will continue to be myself.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/5d/Genji_-_%28Japanese%29_No_matter_where_I_go%2C_I_will_continue_to_be_myself.ogg/revision/latest?cb=20240605202904"
+  },
+  {
+    "hero": "Genji",
+    "ID": "9dc4c863176627d4ea1b77cfbf91a3b7",
+    "line": "My name is... green cyborg ninja dude.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/42/Genji_-_My_name_is..._green_cyborg_ninja_dude.ogg/revision/latest?cb=20241221075513"
+  },
+  {
+    "hero": "Genji",
+    "ID": "9a6413bb0af681eb92f9ad48b360eb16",
+    "line": "Expand Shinrabanshō, ichigoichie. Japanese: 森羅万象、一期一会。 English: Each moment comes only once in a lifetime.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a7/Genji_-_%28Japanese%29_Each_moment_comes_only_once_in_a_lifetime.ogg/revision/latest?cb=20241221075915"
+  },
+  {
+    "hero": "Genji",
+    "ID": "9c075d5d03c8ba4d3c5b071fdfc12d15",
+    "line": "Wait... we had homework?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Genji_-_Wait..._we_had_homework.ogg/revision/latest?cb=20260403072916"
+  },
+  {
+    "hero": "Genji",
+    "ID": "2d719f2a4762ba3bf6a7f3b92b824c02",
+    "line": "That's rough, buddy. (Zuko Genji Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6f/Genji_-_That%27s_rough%2C_buddy.ogg/revision/latest?cb=20241221075943"
+  },
+  {
+    "hero": "Genji",
+    "ID": "f21482b64f8da52b25e663a9337ab9a0",
+    "line": "Yo, Joe! (Snake Eyes Genji Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3d/Genji_-_Yo%2C_Joe_%281%29.ogg/revision/latest?cb=20260403072918"
+  },
+  {
+    "hero": "Genji",
+    "ID": "715d5cf2ec3e05929cb37832f37a2eb2",
+    "line": "Blast them away, Captain Kidd! (Skull Genji Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Genji_-_Blast_them_away..._Captain_Kidd.ogg/revision/latest?cb=20260403072856"
+  },
+  {
+    "hero": "Genji",
+    "ID": "4e70f968491badc7d8c8d086169ec966",
+    "line": "Captain Kidd! (Skull Genji Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0e/Genji_-_Captain_Kidd.ogg/revision/latest?cb=20260403072857"
+  },
+  {
+    "hero": "Genji",
+    "ID": "db9c49c5228510043433217f59e00a4f",
+    "line": "Now you know, and knowing is half the battle.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ee/Genji_-_Now_you_know%2C_and_knowing_is_half_the_battle.ogg/revision/latest?cb=20260403072907"
+  }
+]

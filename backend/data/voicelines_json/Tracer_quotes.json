@@ -1,0 +1,212 @@
+[
+  {
+    "hero": "Tracer",
+    "ID": "e97c90fde23af21ec09eab81d9f71271",
+    "line": "You got it!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Tracer_-_You_got_it.ogg/revision/latest?cb=20230915014758"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "72808eaff0a31d988c0e96836f7d8305",
+    "line": "Aw, rubbish!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/3a/Tracer_-_Aw%2C_rubbish.ogg/revision/latest?cb=20230915012857"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "a4f00827c356d8e7b851d9407a032c79",
+    "line": "Be right back!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e5/Tracer_-_Be_right_back.ogg/revision/latest?cb=20230915012915"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "347de8d5c716cda9ee916d492e2062a4",
+    "line": "Check me out.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/54/Tracer_-_Check_me_out.ogg/revision/latest?cb=20230915012956"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "ae97effb4b4acd0f0bebd8fcaa8059b6",
+    "line": "Cheeky.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/04/Tracer_-_Cheeky.ogg/revision/latest?cb=20230915012958"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "4c2eb07defe1ab41239f992d71d9357a",
+    "line": "Cheers, love! The cavalry's here!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cb/Tracer_-_Cheers%2C_love%21_The_cavalry%27s_here.ogg/revision/latest?cb=20230915013000"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "afd32efcec79ee3c321f57b5b12451ab",
+    "line": "Ever get that feeling of déjà vu?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c0/Tracer_-_Ever_get_that_feeling_of_d%C3%A9j%C3%A0_vu.ogg/revision/latest?cb=20230915013150"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "bebda4ef5755c835aa663378400273bf",
+    "line": "Keep calm and Tracer on!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7d/Tracer_-_Keep_calm_and_Tracer_on.ogg/revision/latest?cb=20230915013700"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "0d10c30e18312fc78aacd7cb0db7f9e1",
+    "line": "She shoots, she scores. *laughs*",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8a/Tracer_-_She_shoots%2C_she_scores.ogg/revision/latest?cb=20230915014104"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "95c74420b5df2166df842140063eb72b",
+    "line": "The world could always use more heroes.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bf/Tracer_-_The_world_could_always_use_more_heroes.ogg/revision/latest?cb=20230915014342"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "30f8f8ea1b0043ec3b02c6cd235d2d61",
+    "line": "I have this under control.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/46/Tracer_-_I_have_this_under_control.ogg/revision/latest?cb=20230915013445"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "68db696c18538bbaa6c61a5830ad8b64",
+    "line": "Looks like you need a time out.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/68/Tracer_-_Looks_like_you_need_a_time_out.ogg/revision/latest?cb=20230915013755"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "90ef9326d78790160b199a864ec2b824",
+    "line": "Bit dodgy, don't you think?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/07/Tracer_-_Bit_dodgy%2C_don%27t_you_think.ogg/revision/latest?cb=20230915012922"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "a4aadfa4463af36deaa7d5f277d3a7ae",
+    "line": "Eat my dust!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/Tracer_-_Eat_my_dust.ogg/revision/latest?cb=20230915013130"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "3eac96c7293e66fb4804254aa87004d2",
+    "line": "Time out!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e0/Tracer_-_Time_out.ogg/revision/latest?cb=20230915014447"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "38f6197983366bde11c91d0ba654fd9e",
+    "line": "Boo!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/f/f6/Tracer_-_Boo.ogg/revision/latest?cb=20230915012934"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "76898e0a9c0322fda71fc44a2f110b68",
+    "line": "Is that a costume?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/87/Tracer_-_Is_that_a_costume.ogg/revision/latest?cb=20230915013620"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "2a74bee53f6c119a6b0a6d91bd3e4b31",
+    "line": "Ooh, scary!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/19/Tracer_-_Oooh..._scary.ogg/revision/latest?cb=20230915013937"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "bccb2dd78948c1dc74c49986c8c5140c",
+    "line": "Trick or treat.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d6/Tracer_-_Trick_or_treat.ogg/revision/latest?cb=20230915014507"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "1ed0b94fa15202c48cb519f98f8884f9",
+    "line": "Ho ho ho!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cd/Tracer_-_Ho_ho_ho_%282%29.ogg/revision/latest?cb=20230915013356"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "af8f6a8ad046dc0491b94ac429b88a69",
+    "line": "I'm ready for some pudding.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/94/Tracer_-_I%27m_ready_for_some_pudding.ogg/revision/latest?cb=20230915013547"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "1234f24eb4ce73d7e40e94b253949cd8",
+    "line": "It's in the bag!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/Tracer_-_It%27s_in_the_bag.ogg/revision/latest?cb=20230915013637"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "2eecb3de66f490ef0036ae9befdb82c3",
+    "line": "I'm over the moon.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7a/Tracer_-_I%27m_over_the_moon.ogg/revision/latest?cb=20230915013546"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "0ca3965da71479cdf87e04769d5186d3",
+    "line": "Who's ready for some fireworks?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/9d/Tracer_-_Who%27s_ready_for_some_fireworks.ogg/revision/latest?cb=20230915014704"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "da2a7a30ba4c7b65f88e57c5e9f1c7f8",
+    "line": "Don't be daft.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/40/Tracer_-_Don%27t_be_daft.ogg/revision/latest?cb=20230915013107"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "7a4a015985364fc4cd460fd011dca614",
+    "line": "Sorry I'm late!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/28/Tracer_-_Sorry_I%27m_late.ogg/revision/latest?cb=20230915014154"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "64f6aa552c9396c587899775380d2ad1",
+    "line": "Time is on my side.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/e8/Tracer_-_Time_is_on_my_side.ogg/revision/latest?cb=20230915014446"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "6011efe7436081453e07dcf8b4411e2f",
+    "line": "Did I miss something?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/e/ec/Tracer_-_Did_I_miss_something.ogg/revision/latest?cb=20230915013050"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "c17a4c0228b6d6e4271f338227ccedec",
+    "line": "Give up? Me? No way!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/cc/Tracer_-_Give_up._Me._No_way.ogg/revision/latest?cb=20230915013249"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "cd11f579ee09d91b8955cf1c8be3a669",
+    "line": "I knew I forgot something.",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/0a/Tracer_-_I_knew_I_forgot_something.ogg/revision/latest?cb=20230915013452"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "054dffe71e57f4f4120fcc5a4928c31e",
+    "line": "I love this part!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Tracer_-_I_love_this_part.ogg/revision/latest?cb=20230915013457"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "801dcc600b2e5d18e606fc5eb9e3239a",
+    "line": "Too slow!",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7c/Tracer_-_Too_slow.ogg/revision/latest?cb=20230915014458"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "146bde91f52b138c5f34dc3ad3bc8a20",
+    "line": "It's called a marathon, but once I do it they'll call it a Tracer-thon !... Yeah!...",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6e/Tracer_-_It%27s_called_a_marathon%2C_but_once_I_do_it_they%27ll_call_it_a_Tracer-thon%21_Yeah.ogg/revision/latest?cb=20230915013634"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "3603ac565c2a9aabf09b314a565ea31c",
+    "line": "Plus Ultra! (Deku Tracer Bundle)",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/36/Tracer_-_Plus_Ultra.ogg/revision/latest?cb=20241018054051"
+  },
+  {
+    "hero": "Tracer",
+    "ID": "f2708b012aeaa6433340611b366d0b1f",
+    "line": "Trying to crash another party, love?",
+    "audio_url": "https://static.wikia.nocookie.net/overwatch_gamepedia/images/c/c1/Tracer_-_Trying_to_crash_another_party%2C_love.ogg/revision/latest?cb=20230915014510"
+  }
+]

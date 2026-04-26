@@ -1,5 +1,5 @@
+.env
 .venv/
 dev notes.txt
 __pycache__/
 backend/__pycache__/
-backend/data/wiki_html/

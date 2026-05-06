@@ -7,8 +7,8 @@ class PostRequest(PostBase):
     query: str = Field(min_length=1, max_length=50)
 
 class SearchResult(BaseModel):
-    id: str
     hero: str
+    id: str
     line: str
     score: float
     audio_url: str

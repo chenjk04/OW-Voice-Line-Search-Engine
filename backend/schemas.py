@@ -8,10 +8,10 @@ class PostRequest(PostBase):
 
 class SearchResult(BaseModel):
     hero: str
-    id: str
+    ID: str
     line: str
     score: float
-    audio_url: str
+    audio_url: str | None
 
 class PostResponse(PostBase):
     model_config = ConfigDict(from_attributes=True)

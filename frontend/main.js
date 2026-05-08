@@ -6,7 +6,7 @@ console.log(main_form);
 
 const sendSearchRequest = async (searchObj) => {
     try {
-        const response = await fetch("https://httpbin.org/post", { // /api/search
+        const response = await fetch("http://127.0.0.1:8000/api/search", { // /api/search
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -18,7 +18,7 @@ const sendSearchRequest = async (searchObj) => {
         }
         const data = await response.json();
         //
-        console.log(data);
+        console.log(data.results);
         return data;
     } catch(err) {
         console.error("Search request failed:", err);

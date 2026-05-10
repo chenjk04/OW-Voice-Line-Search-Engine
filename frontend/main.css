@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 24px;
+    background: #f7f7f8;
+    color: #202124;
+}
+
+header,
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#main_form {
+    display: flex;
+    gap: 8px;
+}
+
+#main_input {
+    flex: 1;
+    padding: 10px 12px;
+}
+
+#main_form button {
+    padding: 10px 16px;
+    cursor: pointer;
+}
+
+#main_form button:disabled {
+    cursor: wait;
+    opacity: 0.7;
+}
+
+#results {
+    margin-top: 28px;
+}
+
+.results_list {
+    display: grid;
+    gap: 12px;
+    list-style: none;
+    padding: 0;
+}
+
+.result_card {
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+}
+
+.result_card h3 {
+    margin: 0 0 8px;
+}
+
+.result_line {
+    margin: 0 0 10px;
+    font-size: 1.05rem;
+}
+
+.result_score,
+.results_message {
+    color: #666;
+}
+
+.result_card audio {
+    width: 100%;
+    margin-top: 8px;
+}

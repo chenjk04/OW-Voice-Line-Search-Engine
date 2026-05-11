@@ -5,6 +5,7 @@ class PostBase(BaseModel):
 
 class PostRequest(PostBase):
     query: str = Field(min_length=1, max_length=50)
+    hero: str | None = None
 
 class SearchResult(BaseModel):
     hero: str

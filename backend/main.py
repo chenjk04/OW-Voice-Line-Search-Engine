@@ -15,24 +15,34 @@ from fastapi.middleware.cors import CORSMiddleware
 
 
 
-ALL_LINE_DATA = []
-ALL_LINE_EMBEDDING = None
-ALL_LINE_BY_ID = {}
+ALL_LINE_DATA = []  # list of line obj
+ALL_LINE_EMBEDDING = None  # nparray of embeddings
+ALL_LINE_BY_ID = {}  # dict of {ID: line obj}
+LINES_BY_HERO = {}  # dict of {hero: [list of line obj]}
+EMBEDDINGS_BY_HERO = {}  # dict of {hero: nparray of embeddings}
 
 @asynccontextmanager
 async def static_emb_extraction(app: FastAPI):
-    global ALL_LINE_DATA
-    global ALL_LINE_EMBEDDING
-    global ALL_LINE_BY_ID
+    global ALL_LINE_DATA 
+    global ALL_LINE_EMBEDDING 
+    global ALL_LINE_BY_ID 
+    global LINES_BY_HERO 
+    global EMBEDDINGS_BY_HERO 
     data = []
+    lines_by_hero = {}
+    embeddings_by_hero = {}
     for hero in HERO_LIST:
         with open(f"backend/data/embedded_voicelines_json/{safe_name(hero)}_quotes.json", "r", encoding="utf-8") as f:
             hero_data = json.load(f)
             data.extend(hero_data)
+            lines_by_hero[hero] = hero_data
+            embeddings_by_hero[hero] = np.array([line["embedding"] for line in hero_data])
     
     ALL_LINE_DATA = data
     ALL_LINE_EMBEDDING = np.array([line["embedding"] for line in ALL_LINE_DATA])
     ALL_LINE_BY_ID = {line["ID"]: line for line in ALL_LINE_DATA}
+    LINES_BY_HERO = lines_by_hero
+    EMBEDDINGS_BY_HERO = embeddings_by_hero
 
     yield
 
@@ -52,16 +62,15 @@ client = OpenAI()
 def search(data: PostRequest):
     search_input = data.query
     embedding_input = np.array(emb(search_input)[0].embedding)
-    cosine_sim_scores = np.dot(ALL_LINE_EMBEDDING, embedding_input)
-    
-    top_indices = np.argsort(cosine_sim_scores)[-10:][::-1]
-    result = []
-    for index in top_indices:
-        top_line = ALL_LINE_DATA[index].copy()
-        del top_line["embedding"]
-        top_line["score"] = float(cosine_sim_scores[index])
-        result.append(top_line)
 
+    if data.hero:
+        if data.hero not in HERO_LIST:
+            raise HTTPException(status_code=400, detail="Invalid hero")
+
+        result = search_result(EMBEDDINGS_BY_HERO[data.hero], LINES_BY_HERO[data.hero], embedding_input)
+        return {"results": result}
+
+    result = search_result(ALL_LINE_EMBEDDING, ALL_LINE_DATA, embedding_input)
     return {"results": result}
         
 
@@ -99,7 +108,17 @@ def get_audio(line_ID: str):
     )
 
 
+def search_result(embeddings, lines, embedding_input):
+    cosine_sim_scores = np.dot(embeddings, embedding_input)
+    top_indices = np.argsort(cosine_sim_scores)[-12:][::-1]
+    result = []
+    for index in top_indices:
+        top_line = lines[index].copy()
+        del top_line["embedding"]
+        top_line["score"] = float(cosine_sim_scores[index])
+        result.append(top_line)
 
+    return result
 
 def emb(s):
     try:

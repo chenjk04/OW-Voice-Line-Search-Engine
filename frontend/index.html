@@ -14,18 +14,71 @@
     <body>
         <header>
             <h1>OW Voice Line Search Engine</h1>
-            
+
         </header>
-        
+
         <main>
             <section id="main_searchbar">
                 <h2>Search and download the OW voice line you want!</h2>
                 <form id="main_form">
+                    <label for="hero_select">Hero</label>
+                    <select id="hero_select" name="hero">
+                        <option value="">All heroes</option>
+                        <optgroup label="Tank">
+                            <option value="D.Va">D.Va</option>
+                            <option value="Doomfist">Doomfist</option>
+                            <option value="Hazard">Hazard</option>
+                            <option value="Junker Queen">Junker Queen</option>
+                            <option value="Mauga">Mauga</option>
+                            <option value="Orisa">Orisa</option>
+                            <option value="Ramattra">Ramattra</option>
+                            <option value="Reinhardt">Reinhardt</option>
+                            <option value="Roadhog">Roadhog</option>
+                            <option value="Sigma">Sigma</option>
+                            <option value="Winston">Winston</option>
+                            <option value="Wrecking Ball">Wrecking Ball</option>
+                            <option value="Zarya">Zarya</option>
+                        </optgroup>
+                        <optgroup label="Damage">
+                            <option value="Ashe">Ashe</option>
+                            <option value="Bastion">Bastion</option>
+                            <option value="Cassidy">Cassidy</option>
+                            <option value="Echo">Echo</option>
+                            <option value="Freja">Freja</option>
+                            <option value="Genji">Genji</option>
+                            <option value="Hanzo">Hanzo</option>
+                            <option value="Junkrat">Junkrat</option>
+                            <option value="Mei">Mei</option>
+                            <option value="Pharah">Pharah</option>
+                            <option value="Reaper">Reaper</option>
+                            <option value="Sojourn">Sojourn</option>
+                            <option value="Soldier:_76">Soldier: 76</option>
+                            <option value="Sombra">Sombra</option>
+                            <option value="Symmetra">Symmetra</option>
+                            <option value="Torbjörn">Torbjörn</option>
+                            <option value="Tracer">Tracer</option>
+                            <option value="Venture">Venture</option>
+                            <option value="Widowmaker">Widowmaker</option>
+                        </optgroup>
+                        <optgroup label="Support">
+                            <option value="Ana">Ana</option>
+                            <option value="Baptiste">Baptiste</option>
+                            <option value="Brigitte">Brigitte</option>
+                            <option value="Illari">Illari</option>
+                            <option value="Juno">Juno</option>
+                            <option value="Kiriko">Kiriko</option>
+                            <option value="Lifeweaver">Lifeweaver</option>
+                            <option value="Lúcio">Lúcio</option>
+                            <option value="Mercy">Mercy</option>
+                            <option value="Moira">Moira</option>
+                            <option value="Zenyatta">Zenyatta</option>
+                        </optgroup>
+                    </select>
                     <label for="main_input"></label>
-                    <input 
-                        type="text" id="main_input" 
-                        placeholder="And they say chivalry is dead" 
-                        autocomplete="on" 
+                    <input
+                        type="text" id="main_input"
+                        placeholder="And they say chivalry is dead"
+                        autocomplete="on"
                         required>
                     <button type="submit">Submit</button>
                 </form>
@@ -34,12 +87,11 @@
             <section id="results"></section>
         </main>
         <footer>
-            
+
         </footer>
 
-        
-        
+
+
     </body>
 
 </html>
-

@@ -15,10 +15,17 @@ main {
 #main_form {
     display: flex;
     gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 #main_input {
     flex: 1;
+    min-width: 220px;
+    padding: 10px 12px;
+}
+
+#hero_select {
     padding: 10px 12px;
 }
 

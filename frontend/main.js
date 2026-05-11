@@ -1,6 +1,7 @@
 const main_searchbar = document.querySelector("#main_searchbar");
 const main_form = main_searchbar.querySelector("#main_form");
 const main_input = main_form.querySelector("#main_input");
+const hero_select = main_form.querySelector("#hero_select");
 const results_section = document.querySelector("#results");
 const API_BASE_URL = "http://127.0.0.1:8000";
 
@@ -80,9 +81,13 @@ main_form.addEventListener("submit", async (event) => {
     event.preventDefault();
     event.stopPropagation();
     const queryVal = main_input.value.trim();
+    const heroVal = hero_select.value;
     const searchObj = {
         query: queryVal
     };
+    if (heroVal) {
+        searchObj.hero = heroVal;
+    }
     const button = main_form.querySelector("button");
     button.disabled = true;
     results_section.innerHTML = "<p class=\"results_message\">Searching...</p>";

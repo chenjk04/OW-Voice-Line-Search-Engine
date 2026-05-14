@@ -10,8 +10,12 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import hashlib
 import json
+from pathlib import Path
 
 from hero_list import HERO_LIST, safe_name
+
+BASE_DIR = Path(__file__).parent
+VOICE_LINES_DIR = BASE_DIR / "data" / "voicelines_json"
 
 
 def load_html(hero_name):
@@ -70,7 +74,7 @@ def parse_table(hero_name, rows):
 
 
 def output_json(hero_name, output):
-    output_file = f"backend/data/voicelines_json/{safe_name(hero_name)}_quotes.json"
+    output_file = VOICE_LINES_DIR / f"{safe_name(hero_name)}_quotes.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     return

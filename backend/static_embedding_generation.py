@@ -5,11 +5,16 @@ from openai import OpenAI
 client = OpenAI()
 
 import json
+from pathlib import Path
 
 from hero_list import HERO_LIST, safe_name
 
+BASE_DIR = Path(__file__).parent
+VOICE_LINES_DIR = BASE_DIR / "data" / "voicelines_json"
+EMBEDDED_VOICE_LINES_DIR = BASE_DIR / "data" / "embedded_voicelines_json"
+
 def get_json(hero_name):
-    input_file = f"backend/data/voicelines_json/{safe_name(hero_name)}_quotes.json"
+    input_file = VOICE_LINES_DIR / f"{safe_name(hero_name)}_quotes.json"
     with open(input_file, "r", encoding="utf-8") as f:
         data = json.load(f)
     return data
@@ -49,7 +54,7 @@ def append_embedding(data, embeddings):
 
 
 def output(hero_name, data):
-    output_file = f"backend/data/embedded_voicelines_json/{safe_name(hero_name)}_quotes.json"
+    output_file = EMBEDDED_VOICE_LINES_DIR / f"{safe_name(hero_name)}_quotes.json"
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 

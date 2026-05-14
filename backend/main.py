@@ -1,25 +1,62 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends
 from fastapi.responses import Response
 from contextlib import asynccontextmanager
-from schemas import PostRequest, PostResponse
+from schemas import PostRequest, PostResponse, VoiceLineResponse
 from dotenv import load_dotenv
 from openai import OpenAI
 import numpy as np
 from hero_list import HERO_LIST, safe_name
 load_dotenv()
 import json
+from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
+from typing import Annotated
+from sqlalchemy.orm import Session
+import models
+from database import Base, SessionLocal, engine, get_db
 from fastapi.middleware.cors import CORSMiddleware
 
+Base.metadata.create_all(bind=engine)
 
+EMBEDDED_VOICE_LINES_DIR = Path(__file__).parent / "data" / "embedded_voicelines_json"
 
 ALL_LINE_DATA = []  # list of line obj
 ALL_LINE_EMBEDDING = None  # nparray of embeddings
 ALL_LINE_BY_ID = {}  # dict of {ID: line obj}
 LINES_BY_HERO = {}  # dict of {hero: [list of line obj]}
 EMBEDDINGS_BY_HERO = {}  # dict of {hero: nparray of embeddings}
+
+
+def seed_voice_lines_if_empty(db: Session):
+    if db.query(models.Voice_Line).first() is not None:
+        return
+
+    for hero in HERO_LIST:
+        json_path = EMBEDDED_VOICE_LINES_DIR / f"{safe_name(hero)}_quotes.json"
+        with open(json_path, "r", encoding="utf-8") as f:
+            for line in json.load(f):
+                db.add(models.Voice_Line(**line))
+
+    db.commit()
+
+
+def serialize_voice_line(line: models.Voice_Line):
+    return {
+        "hero": line.hero,
+        "ID": line.ID,
+        "line": line.line,
+        "audio_url": line.audio_url,
+        "embedding": line.embedding,
+    }
+
+
+def load_voice_lines_from_db(db: Session):
+    return [
+        serialize_voice_line(line)
+        for line in db.query(models.Voice_Line).order_by(models.Voice_Line.hero, models.Voice_Line.ID).all()
+    ]
 
 @asynccontextmanager
 async def static_emb_extraction(app: FastAPI):
@@ -28,15 +65,17 @@ async def static_emb_extraction(app: FastAPI):
     global ALL_LINE_BY_ID 
     global LINES_BY_HERO 
     global EMBEDDINGS_BY_HERO 
-    data = []
+
+    with SessionLocal() as db:
+        seed_voice_lines_if_empty(db)
+        data = load_voice_lines_from_db(db)
+
     lines_by_hero = {}
     embeddings_by_hero = {}
     for hero in HERO_LIST:
-        with open(f"backend/data/embedded_voicelines_json/{safe_name(hero)}_quotes.json", "r", encoding="utf-8") as f:
-            hero_data = json.load(f)
-            data.extend(hero_data)
-            lines_by_hero[hero] = hero_data
-            embeddings_by_hero[hero] = np.array([line["embedding"] for line in hero_data])
+        hero_data = [line for line in data if line["hero"] == hero]
+        lines_by_hero[hero] = hero_data
+        embeddings_by_hero[hero] = np.array([line["embedding"] for line in hero_data])
     
     ALL_LINE_DATA = data
     ALL_LINE_EMBEDDING = np.array([line["embedding"] for line in ALL_LINE_DATA])
@@ -106,6 +145,18 @@ def get_audio(line_ID: str):
         media_type=content_type,
         headers={"Cache-Control": "public, max-age=86400"},
     )
+
+@app.get("/api/lines/{line_ID}", response_model=VoiceLineResponse)
+def get_line(line_ID: str, db: Annotated[Session, Depends(get_db)]):
+    line = db.query(models.Voice_Line).filter(models.Voice_Line.ID == line_ID).first()
+
+    if line is None:
+        raise HTTPException(
+            status_code=404,
+            detail="Voice line not found"
+        )
+    
+    return line
 
 
 def search_result(embeddings, lines, embedding_input):

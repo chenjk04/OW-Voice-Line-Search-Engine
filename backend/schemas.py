@@ -14,6 +14,14 @@ class SearchResult(BaseModel):
     score: float
     audio_url: str | None
 
+class VoiceLineResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
+    hero: str
+    ID: str
+    line: str
+    audio_url: str | None
+
 class PostResponse(PostBase):
     model_config = ConfigDict(from_attributes=True)
     
